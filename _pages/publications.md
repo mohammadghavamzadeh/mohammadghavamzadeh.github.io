@@ -19,11 +19,15 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; TAC = 2, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1, &nbsp; JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 24, &nbsp; NIPS = 16, &nbsp; IJCAI = 4, &nbsp; AISTATS = 7, &nbsp; AAMAS = 3, &nbsp; AAAI = 3, &nbsp; UAI = 3, &nbsp; ICLR = 1,**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 24, &nbsp; NIPS = 17, &nbsp; IJCAI = 4, &nbsp; AISTATS = 7, &nbsp; AAMAS = 3, &nbsp; AAAI = 3, &nbsp; UAI = 3, &nbsp; ICLR = 1,**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 1**</span>
 
 ## **2020**
 ### &emsp; **Conferences** 
+
+- <span style="font-size:0.9em;">Yonathan Efroni, Mohammad Ghavamzadeh, & Shie Mannor. “Online Planning with Lookahead Policies”. <em>Proceedings of the Thirty-Fourth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2020), 2020. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips20.pdf) </span>
+
+- <span style="font-size:0.9em;">Yinlam Chow, Ofir Nachum, Aleksandra Faust, Edgar Duenez-Guzman, & Mohammad Ghavamzadeh. “Safe Policy Learning for Continuous Control”. <em>Proceedings of the Fourth Conference on Robot Learning</em> (CoRL-2020), 2020. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/corl20.pdf) </span>
 
 - <span style="font-size:0.9em;">Shubhanshu Shekhar, Tara Javidi, & Mohammad Ghavamzadeh. “Adaptive Sampling for Estimating Probability Distributions”. <em>Proceedings of the Thirty-Seventh International Conference on Machine Learning</em> (ICML-2020), 2020. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml20-Shekhar.pdf) </span>
 
@@ -42,6 +46,12 @@ author_profile: true
 - <span style="font-size:0.9em;">Nir Levine, Yinlam Chow, Rui Shu, Ang Li, Mohammad Ghavamzadeh, & Hung Bui. “Prediction, Consistency, Curvature: Representation Learning for Locally Linear Control”. <em>Proceedings of the Eighth International Conference on Learning Representations</em> (ICLR-2020), 2020. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr20.pdf) </span>
 
 - <span style="font-size:0.9em;">Evrard Garcelon, Mohammad Ghavamzadeh, Alessandro Lazaric, & Matteo Pirotta. “Improved Algorithms for Conservative Exploration in Bandits”. <em>Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence</em> (AAAI-2020), 2020. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aaai20.pdf) </span>  
+
+### &emsp; **Workshop**
+
+- <span style="font-size:0.9em;">Manan Tomar, Lior Shani, Yonathan Efroni, & Mohammad Ghavamzadeh. “Mirror Descent Policy Optimization”. Workshop on <em>“Deep Reinforcement Learning”, Thirty-Fourth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2020), 2020 <span style="color:red">***(selected for a contributed talk -- 8 out of over 250 submissions).***</span></span>
+
+- <span style="font-size:0.9em;">Ravi-Tej Akella, Kamyar Azizzadenasheli, Mohammad Ghavamzadeh, Yisong Yue, & Anima Anandkumar. “Deep Bayesian Quadrature Policy Gradient”. Workshops on <em>“Deep Reinforcement Learning” and "Challenges of Real-World Reinforcement Learning", Thirty-Fourth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2020), 2020.</span></span>
 
 ## **2019**
 
