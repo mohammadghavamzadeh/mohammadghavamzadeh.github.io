@@ -10,10 +10,10 @@ redirect_from:
 
 <br/> **PROFESSIONAL EXPERIENCE** <br/>
 
-&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Research Scientist**</span> <br/>
+&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Staff Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Research Scientist**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.85em;">Google Research  (Jun. 2020 - present)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Facebook AI Research (FAIR)  (Oct. 2018 - Jun. 2020)</span>
 
-&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Analytics Researcher**</span> <br/>
+&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Staff Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Analytics Researcher**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.85em;">Google DeepMind  (Jun. 2017 - Oct. 2018)</span> &emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Adobe Research  (Oct. 2013 - Jun. 2017)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Chargé de Recherche  CR1**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Chargé de recherche  CR2**</span> <br/>
