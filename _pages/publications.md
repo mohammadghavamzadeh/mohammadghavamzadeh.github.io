@@ -19,8 +19,13 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; TAC = 2, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1, &nbsp; JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 24, &nbsp; NIPS = 17, &nbsp; IJCAI = 4, &nbsp; AISTATS = 7, &nbsp; AAMAS = 3, &nbsp; AAAI = 3, &nbsp; UAI = 3, &nbsp; ICLR = 1,**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 24, &nbsp; NIPS = 17, &nbsp; IJCAI = 4, &nbsp; AISTATS = 7, &nbsp; AAMAS = 3, &nbsp; AAAI = 4, &nbsp; UAI = 3, &nbsp; ICLR = 1,**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 1**</span>
+
+## **2021**
+### &emsp; **Conferences** 
+
+- <span style="font-size:0.9em;">Ravi-Tej Akella, Kamyar Azizzadenesheli, Mohammad Ghavamzadeh, Yisong Yue, & Anima Anandkumar. “Deep Bayesian Quadrature Policy Optimization”. <em>Proceedings of the Thirty-Fifth Conference on Artificial Intelligence</em> (AAAI-2021), 2021. </span>
 
 ## **2020**
 ### &emsp; **Conferences** 
@@ -51,7 +56,7 @@ author_profile: true
 
 - <span style="font-size:0.9em;">Manan Tomar, Lior Shani, Yonathan Efroni, & Mohammad Ghavamzadeh. “Mirror Descent Policy Optimization”. Workshop on <em>“Deep Reinforcement Learning”, Thirty-Fourth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2020), 2020 <span style="color:red">***(selected for a contributed talk -- 8 out of over 250 submissions).***</span></span>
 
-- <span style="font-size:0.9em;">Ravi-Tej Akella, Kamyar Azizzadenasheli, Mohammad Ghavamzadeh, Yisong Yue, & Anima Anandkumar. “Deep Bayesian Quadrature Policy Gradient”. Workshops on <em>“Deep Reinforcement Learning” and "Challenges of Real-World Reinforcement Learning", Thirty-Fourth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2020), 2020.</span></span>
+- <span style="font-size:0.9em;">Ravi-Tej Akella, Kamyar Azizzadenasheli, Mohammad Ghavamzadeh, Yisong Yue, & Anima Anandkumar. “Deep Bayesian Quadrature Policy Gradient”. Workshops on <em>“Deep Reinforcement Learning” and "Challenges of Real-World Reinforcement Learning", Thirty-Fourth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2020), 2020.</span>
 
 ## **2019**
 
@@ -79,7 +84,7 @@ author_profile: true
 
 - <span style="font-size:0.9em;">Scott Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh, & Joelle Pineau. “Benchmarking Batch Deep Reinforcement Learning Algorithms”. Workshop on <em>“Conversational AI”, Thirty-Third Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2019), 2019.</span> 
 
-- <span style="font-size:0.9em;">Yinlam Chow, Ofir Nachum, Aleksandra Faust, and Mohammad Ghavamzadeh. “Lyapunov-based Safe Policy Optimization for Continuous Control”. Workshop on <em>“Reinforcement Learning for Real Life”, Thirty-Sixth International Conference on Machine Learning</em> (ICML-2019), 2019 <span style="color:red">***(winner of the best paper award).***</span></span>
+- <span style="font-size:0.9em;">Yinlam Chow, Ofir Nachum, Aleksandra Faust, and Mohammad Ghavamzadeh. “Lyapunov-based Safe Policy Optimization for Continuous Control”. Workshop on <em>“Reinforcement Learning for Real Life”, Thirty-Sixth International Conference on Machine Learning</em> (ICML-2019), 2019 <span style="color:red">***(winner of the best paper award).***</span>
 
 ## **2018**
 

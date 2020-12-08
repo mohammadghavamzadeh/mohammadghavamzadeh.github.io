@@ -32,39 +32,28 @@ redirect_from:
 
 ### **RECENT NEWS ...**
 
+### **2021**
+
+- <span style="font-size:0.9em;">Our paper on <em>“Deep Bayesian Quadrature Policy Optimization”</em> got accepted at AAAI-2021.</span>
+
+- <span style="font-size:0.9em;">I serve as an area chair for ICML-2021.</span>
+
+- <span style="font-size:0.9em;">I serve as an area chair for ICLR-2021.</span>
+
+
 ### **2020**
-
-- <span style="font-size:0.9em;">Our paper on <em>“Mirror Descent Policy Optimization”</em> <span style="color:red">***accepted for a contributed talk (8 out of about 250 submissions)***</span> at the Deep Reinforcement Learning Workshop at NeurIPS-2020.</span>
-
-- <span style="font-size:0.9em;">Our paper on <em>“Online Planning with Lookahead Policies”</em> got accepted at NeurIPS-2020.</span>
-
-- <span style="font-size:0.9em;">Our paper on <em>“Safe Policy Learning for Continuous Control”</em> got accepted at CoRL-2020.</span>
-
-- <span style="font-size:0.9em;">I will give an invited talk at the <em>“Reinforcement Learning Theory Session”</em> at INFORMS-2020.</span>
 
 - <span style="font-size:0.9em;">Our paper on <em>“Active Learning for Classification with Abstention”</em> <span style="color:red">***short-listed as one of the six finalists for the Jack Keil Wolf  student paper award***</span> at IEEE International Symposium on Information Theory (ISIT-2020).</span>
 
-- <span style="font-size:0.9em;">I will serve as an area chair for ICLR-2021.</span>
+- <span style="font-size:0.9em;">Our paper on <em>“Mirror Descent Policy Optimization”</em> <span style="color:red">***accepted for a contributed talk (8 out of about 250 submissions)***</span> at the Deep Reinforcement Learning Workshop at NeurIPS-2020.</span>
 
-- <span style="font-size:0.9em;">I served as a senior area chair for NeurIPS-2020.</span>
+- <span style="font-size:0.9em;">Eleven conference papers published: <em>“Improved Algorithms for Conservative Exploration in Bandits”</em> at AAAI-2020, <em>“Prediction, Consistency, Curvature: Representation Learning for Locally-Linear Control”</em> at ICLR-2020, <em>“Randomized Exploration in Generalized Linear Bandits”</em> and <em>“Conservative Exploration in Reinforcement Learning”</em> at AISTATS-2020, <em>“Active Learning for Classification with Abstention”</em> at IEEE International Symposium on Information Theory (ISIT-2020), <em>“Adaptive Sampling for Estimating Probability Distributions”</em>, <em>“Multi-step Greedy Reinforcement Learning Algorithms”</em>, and <em>“Predictive Coding for Locally-Linear Control”</em> at ICML-2020, <em>“Active Model Estimation in Markov Decision Processes”</em> at UAI-2020, <em>“Safe Policy Learning for Continuous Control”</em> at CoRL-2020, and <em>“Online Planning with Lookahead Policies”</em> at NeurIPS-2020.</span> 
 
-- <span style="font-size:0.9em;">I gave an invited talk on <em>“Conservative Exploration in Bandits and Reinforcement Learning”</em> at ICML workshop on <em>“Challenges in Deploying and Monitoring Machine Learning Systems”</em>.</span>   
-
-- <span style="font-size:0.9em;">Our three papers on <em>“Adaptive Sampling for Estimating Probability Distributions”</em>, <em>“Multi-step Greedy Reinforcement Learning Algorithms”</em>, and <em>“Predictive Coding for Locally-Linear Control”</em> got accepted at ICML-2020.</span>
-
-- <span style="font-size:0.9em;">Our paper on <em>“Active Model Estimation in Markov Decision Processes”</em> got accepted at UAI-2020.</span>
-
-- <span style="font-size:0.9em;">Our paper on <em>“Active Learning for Classification with Abstention”</em> got accepted at IEEE International Symposium on Information Theory (ISIT-2020).</span>
-
-- <span style="font-size:0.9em;">Our two papers on <em>“Randomized Exploration in Generalized Linear Bandits”</em> and <em>“Conservative Exploration in Reinforcement Learning”</em> got accepted at AISTATS-2020.</span>
-
-- <span style="font-size:0.9em;">Our paper on <em>“Prediction, Consistency, Curvature: Representation Learning for Locally-Linear Control”</em> was accepted at ICLR-2020.</span>
-
-- <span style="font-size:0.9em;">Our paper on <em>“Improved Algorithms for Conservative Exploration in Bandits”</em> was accepted at AAAI-2020.</span> 
+- <span style="font-size:0.9em;">I gave an invited talk on <em>“Conservative Exploration in Bandits and Reinforcement Learning”</em> at ICML workshop on <em>“Challenges in Deploying and Monitoring Machine Learning Systems”</em>, and an invited talk at the <em>“Reinforcement Learning Theory Session”</em> at INFORMS-2020.</span>   
 
 - <span style="font-size:0.9em;">I co-chaired a tutorial on <em>“Exploration-Exploitation in Reinforcement Learning”</em> at AAAI-2020.</span>
 
-- <span style="font-size:0.9em;">I served as an area chair for ICML-2020 and AISTATS-2020.</span>
+- <span style="font-size:0.9em;">I served as a senior area chair for NeurIPS-2020, and as an area chair for ICML-2020 and AISTATS-2020.</span>
 
 ### **2019**
 
