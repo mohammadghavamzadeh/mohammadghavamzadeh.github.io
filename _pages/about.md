@@ -34,6 +34,8 @@ redirect_from:
 
 ### **2021**
 
+- <span style="font-size:0.9em;">Our paper on <em>“Control-aware Representations for Model-based Reinforcement Learning”</em> got accepted at ICLR-2021.</span>
+
 - <span style="font-size:0.9em;">Our paper on <em>“Deep Bayesian Quadrature Policy Optimization”</em> got accepted at AAAI-2021.</span>
 
 - <span style="font-size:0.9em;">I serve as an area chair for ICML-2021.</span>

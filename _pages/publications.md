@@ -19,11 +19,13 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; TAC = 2, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1, &nbsp; JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 24, &nbsp; NIPS = 17, &nbsp; IJCAI = 4, &nbsp; AISTATS = 7, &nbsp; AAMAS = 3, &nbsp; AAAI = 4, &nbsp; UAI = 3, &nbsp; ICLR = 1,**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 24, &nbsp; NIPS = 17, &nbsp; IJCAI = 4, &nbsp; AISTATS = 7, &nbsp; AAMAS = 3, &nbsp; AAAI = 4, &nbsp; UAI = 3, &nbsp; ICLR = 2,**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 1**</span>
 
 ## **2021**
 ### &emsp; **Conferences** 
+
+- <span style="font-size:0.9em;">Brandon Cui, Yinlam Chow, & Mohammad Ghavamzadeh. “Control-aware Representations for Model-based Reinforcement Learning”. <em>Proceedings of the Ninth International Conference on Learning Representations</em> (ICLR-2021), 2021. </span>
 
 - <span style="font-size:0.9em;">Ravi-Tej Akella, Kamyar Azizzadenesheli, Mohammad Ghavamzadeh, Yisong Yue, & Anima Anandkumar. “Deep Bayesian Quadrature Policy Optimization”. <em>Proceedings of the Thirty-Fifth Conference on Artificial Intelligence</em> (AAAI-2021), 2021. </span>
 
