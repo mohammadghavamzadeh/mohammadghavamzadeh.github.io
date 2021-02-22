@@ -29,7 +29,7 @@ author_profile: true
 
 - <span style="font-size:0.9em;">Brandon Cui, Yinlam Chow, & Mohammad Ghavamzadeh. “Control-aware Representations for Model-based Reinforcement Learning”. <em>Proceedings of the Ninth International Conference on Learning Representations</em> (ICLR-2021), 2021. </span>
 
-- <span style="font-size:0.9em;">Ravi-Tej Akella, Kamyar Azizzadenesheli, Mohammad Ghavamzadeh, Yisong Yue, & Anima Anandkumar. “Deep Bayesian Quadrature Policy Optimization”. <em>Proceedings of the Thirty-Fifth Conference on Artificial Intelligence</em> (AAAI-2021), 2021. </span>
+- <span style="font-size:0.9em;">Ravi-Tej Akella, Kamyar Azizzadenesheli, Mohammad Ghavamzadeh, Yisong Yue, & Anima Anandkumar. “Deep Bayesian Quadrature Policy Optimization”. <em>Proceedings of the Thirty-Fifth Conference on Artificial Intelligence</em> (AAAI-2021), 2021. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aaai21.pdf) </span>
 
 ## **2020**
 ### &emsp; **Conferences** 
