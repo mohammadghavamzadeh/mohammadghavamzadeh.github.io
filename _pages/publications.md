@@ -25,7 +25,7 @@ author_profile: true
 ## **2021**
 ### &emsp; **Conferences** 
 
-- <span style="font-size:0.9em;">Aldo Pacchiano, Mohammad Ghavamzadeh, Peter Bartlett, & Heinrich Jiang. “Stochastic Bandits with Linear Constraints”. <em>Proceedings of the Twenty-Fourth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2021), 2021. </span>
+- <span style="font-size:0.9em;">Aldo Pacchiano, Mohammad Ghavamzadeh, Peter Bartlett, & Heinrich Jiang. “Stochastic Bandits with Linear Constraints”. <em>Proceedings of the Twenty-Fourth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2021), 2021. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats21.pdf) </span>
 
 - <span style="font-size:0.9em;">Brandon Cui, Yinlam Chow, & Mohammad Ghavamzadeh. “Control-aware Representations for Model-based Reinforcement Learning”. <em>Proceedings of the Ninth International Conference on Learning Representations</em> (ICLR-2021), 2021. </span>
 
