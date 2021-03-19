@@ -34,6 +34,10 @@ redirect_from:
 
 ### **2021**
 
+- <span style="font-size:0.9em;">I will serve as a senior area chair for NeurIPS-2021.</span>
+
+- <span style="font-size:0.9em;">Our paper on <em>“Neural Lyapunov Redesign”</em> got accepted at Learning for Dynamics & Control Conference (L4DC-2021).</span>
+
 - <span style="font-size:0.9em;">Our paper on <em>“Stochastic Bandits with Linear Constraints”</em> got accepted at AISTATS-2021.</span>
 
 - <span style="font-size:0.9em;">Our paper on <em>“Control-aware Representations for Model-based Reinforcement Learning”</em> got accepted at ICLR-2021.</span>
