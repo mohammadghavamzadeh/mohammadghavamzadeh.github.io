@@ -25,11 +25,13 @@ author_profile: true
 ## **2021**
 ### &emsp; **Conferences** 
 
+- <span style="font-size:0.9em;">Yinlam Chow, Brandon Cui, Moonkyung Ryu, & Mohammad Ghavamzadeh. “Variational Model-based Policy Optimization”. <em>Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence</em> (IJCAI-2021), 2021. </span>
+
 - <span style="font-size:0.9em;">Arash Mehrjou, Mohammad Ghavamzadeh, & Bernhard Schölkopf. “Neural Lyapunov Redesign”. <em>Proceedings of the Third Annual Learning for Dynamics & Control Conference</em> (L4DC-2021), 2021. </span>
 
 - <span style="font-size:0.9em;">Aldo Pacchiano, Mohammad Ghavamzadeh, Peter Bartlett, & Heinrich Jiang. “Stochastic Bandits with Linear Constraints”. <em>Proceedings of the Twenty-Fourth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2021), 2021. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats21.pdf) </span>
 
-- <span style="font-size:0.9em;">Brandon Cui, Yinlam Chow, & Mohammad Ghavamzadeh. “Control-aware Representations for Model-based Reinforcement Learning”. <em>Proceedings of the Ninth International Conference on Learning Representations</em> (ICLR-2021), 2021. </span>
+- <span style="font-size:0.9em;">Brandon Cui, Yinlam Chow, & Mohammad Ghavamzadeh. “Control-aware Representations for Model-based Reinforcement Learning”. <em>Proceedings of the Ninth International Conference on Learning Representations</em> (ICLR-2021), 2021.  &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr21.pdf) </span>
 
 - <span style="font-size:0.9em;">Ravi-Tej Akella, Kamyar Azizzadenesheli, Mohammad Ghavamzadeh, Yisong Yue, & Anima Anandkumar. “Deep Bayesian Quadrature Policy Optimization”. <em>Proceedings of the Thirty-Fifth Conference on Artificial Intelligence</em> (AAAI-2021), 2021. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aaai21.pdf) </span>
 
