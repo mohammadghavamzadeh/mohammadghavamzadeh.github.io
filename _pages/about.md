@@ -34,6 +34,12 @@ redirect_from:
 
 ### **2021**
 
+- <span style="font-size:0.9em;">Our paper on <em>“Active Learning for Classification with Abstention”</em> got published at IEEE Journal on Selected Areas in Information Theory (JSAIT).</span> 
+
+- <span style="font-size:0.9em;">Our paper on <em>“A Review on Uncertainty Quantification in Deep Learning: Techniques, Applications, and Challenges”</em> got published at Elsevier Journal on Information Fusion.</span> 
+
+- <span style="font-size:0.9em;">Our paper on <em>“PID Accelerated Value Iteration Algorithm”</em> got accepted at ICML-2021.</span>
+
 - <span style="font-size:0.9em;">Our paper on <em>“Variational Model-based Policy Optimization”</em> got accepted at IJCAI-2021.</span>
 
 - <span style="font-size:0.9em;">I will serve as a senior area chair for NeurIPS-2021.</span>

@@ -16,14 +16,23 @@ author_profile: true
 {% endfor %}
 
 ### **JOURNALS**
-&emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; TAC = 2, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1, &nbsp; JAAMAS = 1**</span>
+&emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; IEEE Trans. & Journals = 4, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1, &nbsp; JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 24, &nbsp; NIPS = 17, &nbsp; IJCAI = 5, &nbsp; AISTATS = 8, &nbsp; AAMAS = 3, &nbsp; AAAI = 4, &nbsp; UAI = 3, &nbsp; ICLR = 2,**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 25, &nbsp; NIPS = 17, &nbsp; IJCAI = 5, &nbsp; AISTATS = 8, &nbsp; AAMAS = 3, &nbsp; AAAI = 4, &nbsp; UAI = 3, &nbsp; ICLR = 2,**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 1**</span>
 
 ## **2021**
+
+### &emsp; **Journal**
+
+- <span style="font-size:0.9em;">Shubhanshu Shekhar, Mohammad Ghavamzadeh, & Tara Javidi. “Active Learning for Classification with Abstention”. <em>IEEE Journal on Selected Areas in Information Theory</em> (JSAIT), 2021 (DOI: 10.1109/JSAIT.2021.3081433). </span>
+
+- <span style="font-size:0.9em;">Moloud Abdar, Farhad Pourpanah, Sadiq Hussain, Dana Rezazadegan, Li Liu, Mohammad Ghavamzadeh, Paul Fieguth, Xiaochun Cao, Abbas Khosravi, Rajendra Acharya, Vladimir Makarenkov, & Saeid Nahavandi. “A Review on Uncertainty Quantification in Deep Learning: Techniques, Applications, and Challenges”. <em>Elsevier Journal on Information Fusion</em>, 2021 (DOI: 10.1016/j.inffus.2021.05.008). </span>
+
 ### &emsp; **Conferences** 
+
+- <span style="font-size:0.9em;">Amir-massoud Farahmand and Mohammad Ghavamzadeh. “PID Accelerated Value Iteration Algorithm”. <em>Proceedings of the Thirty-Eighth International Conference on Machine Learning</em> (ICML-2021), 2021. </span>
 
 - <span style="font-size:0.9em;">Yinlam Chow, Brandon Cui, Moonkyung Ryu, & Mohammad Ghavamzadeh. “Variational Model-based Policy Optimization”. <em>Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence</em> (IJCAI-2021), 2021. </span>
 
