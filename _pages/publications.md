@@ -34,7 +34,7 @@ author_profile: true
 
 - <span style="font-size:0.9em;">Amir-massoud Farahmand and Mohammad Ghavamzadeh. “PID Accelerated Value Iteration Algorithm”. <em>Proceedings of the Thirty-Eighth International Conference on Machine Learning</em> (ICML-2021), 2021. </span>
 
-- <span style="font-size:0.9em;">Yinlam Chow, Brandon Cui, Moonkyung Ryu, & Mohammad Ghavamzadeh. “Variational Model-based Policy Optimization”. <em>Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence</em> (IJCAI-2021), 2021. </span>
+- <span style="font-size:0.9em;">Yinlam Chow, Brandon Cui, Moonkyung Ryu, & Mohammad Ghavamzadeh. “Variational Model-based Policy Optimization”. <em>Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence</em> (IJCAI-2021), 2021. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/ijcai21.pdf) </span>
 
 - <span style="font-size:0.9em;">Arash Mehrjou, Mohammad Ghavamzadeh, & Bernhard Schölkopf. “Neural Lyapunov Redesign”. <em>Proceedings of the Third Annual Learning for Dynamics & Control Conference</em> (L4DC-2021), 2021. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/L4DC21.pdf) </span>
 
