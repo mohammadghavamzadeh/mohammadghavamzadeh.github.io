@@ -34,28 +34,13 @@ redirect_from:
 
 ### **2021**
 
-- <span style="font-size:0.9em;">Our paper on <em>“Active Learning for Classification with Abstention”</em> got published at IEEE Journal on Selected Areas in Information Theory (JSAIT).</span> 
+- <span style="font-size:0.9em;">I will serve as an area chair for ICLR-2022.</span>
 
-- <span style="font-size:0.9em;">Our paper on <em>“A Review on Uncertainty Quantification in Deep Learning: Techniques, Applications, and Challenges”</em> got published at Elsevier Journal on Information Fusion.</span> 
+- <span style="font-size:0.9em;">Two journal papers published: <em>“Active Learning for Classification with Abstention”</em> at IEEE Journal on Selected Areas in Information Theory (JSAIT), and <em>“A Review on Uncertainty Quantification in Deep Learning: Techniques, Applications, and Challenges”</em> at Elsevier Journal on Information Fusion.</span> 
 
-- <span style="font-size:0.9em;">Our paper on <em>“PID Accelerated Value Iteration Algorithm”</em> got accepted at ICML-2021.</span>
+- <span style="font-size:0.9em;">Seven conference papers published: <em>“Adaptive Sampling for Minimax Fair Classification”</em> at NeurIPS-2021, <em>“PID Accelerated Value Iteration Algorithm”</em> at ICML-2021, <em>“Variational Model-based Policy Optimization”</em> got accepted at IJCAI-2021, <em>“Neural Lyapunov Redesign”</em> at Learning for Dynamics & Control Conference (L4DC-2021), <em>“Stochastic Bandits with Linear Constraints”</em> at AISTATS-2021, <em>“Control-aware Representations for Model-based Reinforcement Learning”</em> at ICLR-2021, and <em>“Deep Bayesian Quadrature Policy Optimization”</em> at AAAI-2021.</span>
 
-- <span style="font-size:0.9em;">Our paper on <em>“Variational Model-based Policy Optimization”</em> got accepted at IJCAI-2021.</span>
-
-- <span style="font-size:0.9em;">I will serve as a senior area chair for NeurIPS-2021.</span>
-
-- <span style="font-size:0.9em;">Our paper on <em>“Neural Lyapunov Redesign”</em> got accepted at Learning for Dynamics & Control Conference (L4DC-2021).</span>
-
-- <span style="font-size:0.9em;">Our paper on <em>“Stochastic Bandits with Linear Constraints”</em> got accepted at AISTATS-2021.</span>
-
-- <span style="font-size:0.9em;">Our paper on <em>“Control-aware Representations for Model-based Reinforcement Learning”</em> got accepted at ICLR-2021.</span>
-
-- <span style="font-size:0.9em;">Our paper on <em>“Deep Bayesian Quadrature Policy Optimization”</em> got accepted at AAAI-2021.</span>
-
-- <span style="font-size:0.9em;">I serve as an area chair for ICML-2021.</span>
-
-- <span style="font-size:0.9em;">I serve as an area chair for ICLR-2021.</span>
-
+- <span style="font-size:0.9em;">I served as a senior area chair for NeurIPS-2021, and as an area chair for ICML-2021 and ICLR-2021.</span>
 
 ### **2020**
 
