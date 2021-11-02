@@ -32,7 +32,7 @@ author_profile: true
 
 ### &emsp; **Conferences** 
 
-- <span style="font-size:0.9em;">Shubhanshu Shekhar, Greg Fields, Mohammad Ghavamzadeh, & Tara Javidi. “”. <em>Proceedings of the Thirty-Fifth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2021), 2021. </span>
+- <span style="font-size:0.9em;">Shubhanshu Shekhar, Greg Fields, Mohammad Ghavamzadeh, & Tara Javidi. “Adaptive Sampling for Minimax Fair Classification”. <em>Proceedings of the Thirty-Fifth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2021), 2021. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips21.pdf)</span>
 
 - <span style="font-size:0.9em;">Amir-massoud Farahmand and Mohammad Ghavamzadeh. “PID Accelerated Value Iteration Algorithm”. <em>Proceedings of the Thirty-Eighth International Conference on Machine Learning</em> (ICML-2021), 2021. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml21.pdf)</span>
 
