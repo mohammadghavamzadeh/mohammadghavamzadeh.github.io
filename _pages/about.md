@@ -32,9 +32,13 @@ redirect_from:
 
 ### **RECENT NEWS ...**
 
-### **2021**
+### **2022**
 
-- <span style="font-size:0.9em;">I will serve as an area chair for ICLR-2022.</span>
+- <span style="font-size:0.9em;">I serve as an area chair for ICLR-2022 and ICML-2022.</span>
+
+- <span style="font-size:0.9em;">I serve as a guest editor for Machine Learning Journal (MLJ), Special Issue on Safe and Fair Machine Learning.</span>
+
+### **2021**
 
 - <span style="font-size:0.9em;">Two journal papers published: <em>“Active Learning for Classification with Abstention”</em> at IEEE Journal on Selected Areas in Information Theory (JSAIT), and <em>“A Review on Uncertainty Quantification in Deep Learning: Techniques, Applications, and Challenges”</em> at Elsevier Journal on Information Fusion.</span> 
 
