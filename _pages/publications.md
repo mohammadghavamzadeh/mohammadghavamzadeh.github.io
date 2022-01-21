@@ -19,8 +19,18 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; IEEE Trans. & Journals = 4, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1, &nbsp; JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 25, &nbsp; NIPS = 18, &nbsp; IJCAI = 5, &nbsp; AISTATS = 8, &nbsp; AAMAS = 3, &nbsp; AAAI = 4, &nbsp; UAI = 3, &nbsp; ICLR = 2,**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 25, &nbsp; NIPS = 18, &nbsp; IJCAI = 5, &nbsp; AISTATS = 10, &nbsp; AAMAS = 3, &nbsp; AAAI = 4, &nbsp; UAI = 3, &nbsp; ICLR = 3,**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 1**</span>
+
+## **2022**
+
+### &emsp; **Conferences** 
+
+- <span style="font-size:0.9em;">Manan Tomar, Lior Shani, Yonathan Efroni, & Mohammad Ghavamzadeh. “Mirror Descent Policy Optimization”. <em>Proceedings of the Tenth International Conference on Learning Representations</em> (ICLR-2022), 2022. </span>
+
+- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Mohammad Ghavamzadeh, & Craig Boutilier. “Thompson Sampling with a Mixture Prior”. <em>Proceedings of the Twenty-Fifth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2022), 2022. </span>
+
+- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, & Mohammad Ghavamzadeh. “Hierarchical Bayesian Bandits”. <em>Proceedings of the Twenty-Fifth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2022), 2022. </span>
 
 ## **2021**
 
