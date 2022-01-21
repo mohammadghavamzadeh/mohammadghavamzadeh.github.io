@@ -34,7 +34,7 @@ redirect_from:
 
 ### **2022**
 
-- <span style="font-size:0.9em;">A Seven paper on <em>“Mirror Descent Policy Optimization”</em> got accepted at ICLR-2022.</span>
+- <span style="font-size:0.9em;">A paper on <em>“Mirror Descent Policy Optimization”</em> got accepted at ICLR-2022.</span>
 
 - <span style="font-size:0.9em;">Two papers on <em>“Thompson Sampling with a Mixture Prior”</em> and <em>“Hierarchical Bayesian Bandits”</em> got accepted at AISTATS-2022.</span>
 
