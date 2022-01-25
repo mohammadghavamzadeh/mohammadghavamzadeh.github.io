@@ -19,7 +19,7 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; IEEE Trans. & Journals = 4, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1, &nbsp; JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 25, &nbsp; NIPS = 18, &nbsp; IJCAI = 5, &nbsp; AISTATS = 10, &nbsp; AAMAS = 3, &nbsp; AAAI = 4, &nbsp; UAI = 3, &nbsp; ICLR = 3,**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 25, &nbsp; NIPS = 18, &nbsp; AISTATS = 10, &nbsp; IJCAI = 5, &nbsp; AAAI = 4, &nbsp; AAMAS = 3, &nbsp; UAI = 3, &nbsp; ICLR = 3,**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 1**</span>
 
 ## **2022**
