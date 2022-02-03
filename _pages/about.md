@@ -36,6 +36,8 @@ redirect_from:
 
 - <span style="font-size:0.9em;">A paper on <em>“Mirror Descent Policy Optimization”</em> got accepted at ICLR-2022.</span>
 
+- <span style="font-size:0.9em;">A paper on <em>“Collaborative Multi-agent Stochastic Linear Bandits”</em> got accepted at ACC-2022.</span>
+
 - <span style="font-size:0.9em;">Two papers on <em>“Thompson Sampling with a Mixture Prior”</em> and <em>“Hierarchical Bayesian Bandits”</em> got accepted at AISTATS-2022.</span>
 
 - <span style="font-size:0.9em;">I serve as an area chair for ICLR-2022 and ICML-2022.</span>
