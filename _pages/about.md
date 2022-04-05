@@ -34,7 +34,7 @@ redirect_from:
 
 ### **2022**
 
-- <span style="font-size:0.9em;">I serve as a senior area chair for NeurIPS-2022.</span>
+- <span style="font-size:0.9em;">I serve as a <em>senior area chair</em> for NeurIPS-2022.</span>
 
 - <span style="font-size:0.9em;">A paper on <em>“Mirror Descent Policy Optimization”</em> got accepted at ICLR-2022.</span>
 
@@ -42,7 +42,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">Two papers on <em>“Thompson Sampling with a Mixture Prior”</em> and <em>“Hierarchical Bayesian Bandits”</em> got accepted at AISTATS-2022.</span>
 
-- <span style="font-size:0.9em;">I serve as an area chair for ICLR-2022 and ICML-2022.</span>
+- <span style="font-size:0.9em;">I serve as an <em>area chair</em> for ICLR-2022 and ICML-2022.</span>
 
 - <span style="font-size:0.9em;">I serve as a guest editor for Machine Learning Journal (MLJ), Special Issue on Safe and Fair Machine Learning.</span>
 
@@ -52,7 +52,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">Seven conference papers published: <em>“Adaptive Sampling for Minimax Fair Classification”</em> at NeurIPS-2021, <em>“PID Accelerated Value Iteration Algorithm”</em> at ICML-2021, <em>“Variational Model-based Policy Optimization”</em> got accepted at IJCAI-2021, <em>“Neural Lyapunov Redesign”</em> at Learning for Dynamics & Control Conference (L4DC-2021), <em>“Stochastic Bandits with Linear Constraints”</em> at AISTATS-2021, <em>“Control-aware Representations for Model-based Reinforcement Learning”</em> at ICLR-2021, and <em>“Deep Bayesian Quadrature Policy Optimization”</em> at AAAI-2021.</span>
 
-- <span style="font-size:0.9em;">I served as a senior area chair for NeurIPS-2021, and as an area chair for ICML-2021 and ICLR-2021.</span>
+- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> for NeurIPS-2021, and as an <em>area chair</em> for ICML-2021 and ICLR-2021.</span>
 
 ### **2020**
 
@@ -66,7 +66,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I co-chaired a tutorial on <em>“Exploration-Exploitation in Reinforcement Learning”</em> at AAAI-2020.</span>
 
-- <span style="font-size:0.9em;">I served as a senior area chair for NeurIPS-2020, and as an area chair for ICML-2020 and AISTATS-2020.</span>
+- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> for NeurIPS-2020, and as an <em>area chair</em> for ICML-2020 and AISTATS-2020.</span>
 
 ### **2019**
 
@@ -78,7 +78,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I co-chaired a workshop on <em>“Safety and Robustness in Decision-making”</em> at NeurIPS-2019.</span>
 
-- <span style="font-size:0.9em;">I served as an area chair for ICML-2019 and NeurIPS-2019.</span>
+- <span style="font-size:0.9em;">I served as an <em>area chair</em> for ICML-2019 and NeurIPS-2019.</span>
 
 ### **2018**
 
@@ -90,7 +90,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I taught at the Deep Learning & Reinforcement Learning summer school organized by CIFAR and the Vector Institute at the University of Toronto in August.</span>
 
-- <span style="font-size:0.9em;">I served as an area chair for NIPS-2018 and ICML-2018, and as a senior program committee member for IJCAI-2018 and AAAI-2018.</span>    
+- <span style="font-size:0.9em;">I served as an <em>area chair</em> for NIPS-2018 and ICML-2018, and as a <em>senior program committee member</em> for IJCAI-2018 and AAAI-2018.</span>    
 
 ### **2017**
 
@@ -102,7 +102,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I gave an invited talk at the 2nd Asian Workshop on Reinforcement Learning in Seoul, South Korea on November 15, 2017.</span>
 
-- <span style="font-size:0.9em;">I served as an area chair for NIPS-2017 and as a senior program committee member for AAAI-2017.</span> 
+- <span style="font-size:0.9em;">I served as an <em>area chair</em> for NIPS-2017 and as a <em>senior program committee member</em> for AAAI-2017.</span> 
 
 ### **2016**
 
@@ -112,7 +112,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I gave an invited talk at the 13th European Workshop on Reinforcement Learning (EWRL) in Barcelona on December 3-4, 2016.</span>
 
-- <span style="font-size:0.9em;">I served as a senior program committee member for IJCAI-2016 and ECML-2016.</span>
+- <span style="font-size:0.9em;">I served as a <em>senior program committee member</em> for IJCAI-2016 and ECML-2016.</span>
 
 ### **2015**
 
@@ -126,7 +126,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">My student, Victor Gabillon, won the AFIA (French Association for Artificial Intelligence) prize for the 2nd best Ph.D. thesis (completed in 2014) on artificial intelligence in France.</span>
 
-- <span style="font-size:0.9em;">I served as a senior program committee member for IJCAI-2015.</span> 
+- <span style="font-size:0.9em;">I served as a <em>senior program committee member</em> for IJCAI-2015.</span> 
 
 ### **2014**
 
@@ -136,4 +136,4 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I successfully defended my <em>“Habilitation à Diriger des Recherches”</em> (HDR) thesis and graduated my Ph.D. student Victor Gabillon in June 2014. Victor will be a postdoc with Prof. Peter Bartlett at UC Berkeley starting October 2014.</span>
 
-- <span style="font-size:0.9em;">I served as an area chair for NIPS-2014.</span>
+- <span style="font-size:0.9em;">I served as an <em>area chair</em> for NIPS-2014.</span>
