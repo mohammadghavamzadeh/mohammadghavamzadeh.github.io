@@ -79,8 +79,8 @@ author_profile: true
 &emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Learning Theory (COLT 2008)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">National Conference on Artificial Intelligence (AAAI 2005)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Joint Conference on Artificial Intelligence (IJCAI 2007)</span> <br/>
-&emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NIPS 2006-2012, 2015, 2016)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Artificial Intelligence and Statistics (AISTATS 2009, 2011, 2012)</span> <br/>
+&emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NIPS 2006-2012, 2015, 2016)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Joint Conference on Autonomous Agents and Multi-agent Systems (AAMAS 2002, 2003)</span>
 
 <br/> **Journal Reviewer**
