@@ -47,7 +47,7 @@ author_profile: true
 
 <br/> **Senior Area Chair**
 
-&emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NeurIPS 2020, 2021)</span>
+&emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NeurIPS 2020-2022)</span>
 
 <br/> **Area Chair & Senior Program Committee Member**
 
