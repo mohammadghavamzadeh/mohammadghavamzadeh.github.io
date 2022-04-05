@@ -38,7 +38,7 @@ author_profile: true
 
 <br/> **Editorial Board Member**
 
-&emsp;&nbsp; <span style="font-size:0.925em;">Machine Learning Journal – Special Issue on Safe and Fair Machine Learning (2021)</span> <br/>
+&emsp;&nbsp; <span style="font-size:0.925em;">Machine Learning Journal – Special Issue on Safe and Fair Machine Learning (2021-2022)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">Machine Learning Journal (2011-2020)</span>
 
 <br/> **Steering Committee Member**
@@ -53,8 +53,8 @@ author_profile: true
 
 &emsp;&nbsp; <span style="font-size:0.925em;">European Conference on Machine Learning (ECML 2016)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">AAAI Conference on Artificial Intelligence (AAAI 2017, 2018)</span> <br/>
-&emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Learning Representations (ICLR 2021, 2022)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Machine Learning (ICML 2018-2022)</span> <br/>
+&emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Learning Representations (ICLR 2021, 2022)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Artificial Intelligence and Statistics (AISTATS 2020)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Joint Conference on Artificial Intelligence (IJCAI 2011, 2015, 2016, 2018)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NeurIPS 2013, 2014, 2017-2019)</span>
@@ -63,8 +63,8 @@ author_profile: true
 
 &emsp;&nbsp; <span style="font-size:0.925em;">European Conference on Machine Learning (ECML 2010, 2012)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Machine Learning (ICML 2006-2017)</span> <br/>
-&emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Learning Representations (ICLR 2020)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">AAAI Conference on Artificial Intelligence (AAAI 2007-2008, 2011)</span> <br/>
+&emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Learning Representations (ICLR 2020)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Artificial Neural Networks (ICANN 2011)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Uncertainty in Artificial Intelligence (UAI 2012)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">French Conference on Planning, Decision-making, and Learning (JFPDA 2012-2014)</span> <br/>
