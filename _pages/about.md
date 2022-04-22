@@ -34,7 +34,7 @@ redirect_from:
 
 ### **2022**
 
-- <span style="font-size:0.9em;">A paper on <em>“Fixed-Budget Best-Arm Identification in Structured Bandits”</em> got accepted for long oral presentation (about %4 acceptance) at IJCAI-2022.</span>
+- <span style="font-size:0.9em;">A paper on <em>“Fixed-Budget Best-Arm Identification in Structured Bandits”</em> <span style="color:red">***got accepted for a long oral presentation (about %4 acceptance)***</span> at IJCAI-2022.</span>
 
 - <span style="font-size:0.9em;">I was selected as a <em>Highlighted Area Chair</em> of ICLR-2022.</span>
 

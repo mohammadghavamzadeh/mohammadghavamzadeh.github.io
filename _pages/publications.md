@@ -26,7 +26,7 @@ author_profile: true
 
 ### &emsp; **Conferences** 
 
-- <span style="font-size:0.9em;">Mohammad Javad Azizi, Branislav Kveton, & Mohammad Ghavamzadeh. “Fixed-Budget Best-Arm Identification in Structured Bandits”. <span style="color:red">***Selected for Long Oral Presentation (%4 acceptance).***</span> <em>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence</em> (IJCAI-2022), 2022. </span>
+- <span style="font-size:0.9em;">Mohammad Javad Azizi, Branislav Kveton, & Mohammad Ghavamzadeh. “Fixed-Budget Best-Arm Identification in Structured Bandits”. <span style="color:red">***Selected for a long oral presentation (%4 acceptance)***</span>. <em>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence</em> (IJCAI-2022), 2022. </span>
 
 - <span style="font-size:0.9em;">Manan Tomar, Lior Shani, Yonathan Efroni, & Mohammad Ghavamzadeh. “Mirror Descent Policy Optimization”. <em>Proceedings of the Tenth International Conference on Learning Representations</em> (ICLR-2022), 2022. </span>
 
