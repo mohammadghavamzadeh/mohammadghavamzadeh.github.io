@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 <p>&nbsp;</p>
-- **2022 -** <em>Selected as a Highlighted Area Chair</em> of the Tenth International Conference on Learning Representations (ICLR-2022).
+- **2022 -** <em>Selected as a highlighted area chair</em> at the Tenth International Conference on Learning Representations (ICLR-2022).
 
 - **2020 -** <em>Short-listed as one of the six finalists for the Jack Keil Wolf student paper award</em> - IEEE International Symposium on Information Theory (ISIT-2020).
 
