@@ -34,7 +34,13 @@ redirect_from:
 
 ### **2022**
 
+- <span style="font-size:0.9em;">A paper on <em>“Fixed-Budget Best-Arm Identification in Structured Bandits”</em> got accepted for long oral presentation (about %4 acceptance) at IJCAI-2022.</span>
+
+- <span style="font-size:0.9em;">I was selected as a <em>Highlighted Area Chair<em> of ICLR-2022.</span>
+
 - <span style="font-size:0.9em;">I serve as a <em>senior area chair</em> for NeurIPS-2022.</span>
+
+- <span style="font-size:0.9em;">A paper on <em>“Multi-Environment Meta-Learning in Stochastic Linear Bandits”</em> got accepted at ISIT-2022.</span>
 
 - <span style="font-size:0.9em;">A paper on <em>“Mirror Descent Policy Optimization”</em> got accepted at ICLR-2022.</span>
 
