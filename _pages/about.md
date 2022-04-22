@@ -40,7 +40,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I serve as a <em>senior area chair</em> for NeurIPS-2022.</span>
 
-- <span style="font-size:0.9em;">A paper on <em>“Multi-Environment Meta-Learning in Stochastic Linear Bandits”</em> got accepted at ISIT-2022.</span>
+- <span style="font-size:0.9em;">A paper on <em>“Multi-Environment Meta-Learning in Stochastic Linear Bandits”</em> got accepted at IEEE International Symposium on Information Theory (ISIT-2022).</span>
 
 - <span style="font-size:0.9em;">A paper on <em>“Mirror Descent Policy Optimization”</em> got accepted at ICLR-2022.</span>
 
