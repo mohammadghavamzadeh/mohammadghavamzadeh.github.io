@@ -133,7 +133,7 @@ author_profile: true
 
 - <span style="font-size:0.9em;">Yinlam Chow, Ofir Nachum, Mohammad Ghavamzadeh, & Edgar Duenez-Guzman. “A Lyapunov-based Approach to Safe Reinforcement Learning”. <em>Proceedings of the Thirty-Second Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2018), 2018. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips18-safety.pdf) </span>
 
-- <span style="font-size:0.9em;">Tengyang Xie, Bo Liu, Yangyang Xu, Mohammad Ghavamzadeh, Yinlam Chow, Daoming Lyu, & Daesub Yoon. “A Block Coordinate Ascent Algorithm for Mean-Variance Optimization”. <em>Proceedings of the Thirty-Second Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2018), 2018. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips18-risk.pdf) </span>
+- <span style="font-size:0.9em;">Tengyang Xie, Bo Liu, Yangyang Xu, Mohammad Ghavamzadeh, Yinlam Chow, Daoming Lyu, & Daesub Yoon. “A Block Coordinate Ascent Algorithm for Mean-Variance Optimization”. <em>Proceedings of the Thirty-Second Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2018), pp. 1073-1083, 2018. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips18-risk.pdf) </span>
 
 - <span style="font-size:0.9em;">Ofir Nachum, Yinlam Chow, & Mohammad Ghavamzadeh. “Path Consistency Learning in Tsallis Entropy Regularized MDPs”. <em>Proceedings of the Thirty-Fifth International Conference on Machine Learning</em> (ICML-2018), pp. 979-988, Stockholm, Sweden, July 2018. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml18-Tsallis.pdf) </span>
 
