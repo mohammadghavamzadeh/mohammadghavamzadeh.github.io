@@ -24,7 +24,7 @@ author_profile: true
 
 ## **2022**
 
-### &emsp; **Conferences** 
+### &emsp; **Conference** 
 
 - <span style="font-size:0.9em;">Mohammad Javad Azizi, Branislav Kveton, & Mohammad Ghavamzadeh. “Fixed-Budget Best-Arm Identification in Structured Bandits”. <span style="color:red">***Selected for a long oral presentation (%4 acceptance)***</span>. <em>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence</em> (IJCAI-2022), 2022. </span>
 
@@ -46,7 +46,7 @@ author_profile: true
 
 - <span style="font-size:0.9em;">Moloud Abdar, Farhad Pourpanah, Sadiq Hussain, Dana Rezazadegan, Li Liu, Mohammad Ghavamzadeh, Paul Fieguth, Xiaochun Cao, Abbas Khosravi, Rajendra Acharya, Vladimir Makarenkov, & Saeid Nahavandi. “A Review on Uncertainty Quantification in Deep Learning: Techniques, Applications, and Challenges”. <em>Elsevier Journal on Information Fusion</em>, 76:243-297, 2021 (DOI: 10.1016/j.inffus.2021.05.008). &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/Information-Fusion21.pdf) </span>
 
-### &emsp; **Conferences** 
+### &emsp; **Conference** 
 
 - <span style="font-size:0.9em;">Shubhanshu Shekhar, Greg Fields, Mohammad Ghavamzadeh, & Tara Javidi. “Adaptive Sampling for Minimax Fair Classification”. <em>Proceedings of the Thirty-Fifth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2021), 2021. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips21.pdf)</span>
 
@@ -63,7 +63,7 @@ author_profile: true
 - <span style="font-size:0.9em;">Ravi-Tej Akella, Kamyar Azizzadenesheli, Mohammad Ghavamzadeh, Yisong Yue, & Anima Anandkumar. “Deep Bayesian Quadrature Policy Optimization”. <em>Proceedings of the Thirty-Fifth Conference on Artificial Intelligence</em> (AAAI-2021), 2021. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aaai21.pdf) </span>
 
 ## **2020**
-### &emsp; **Conferences** 
+### &emsp; **Conference** 
 
 - <span style="font-size:0.9em;">Yonathan Efroni, Mohammad Ghavamzadeh, & Shie Mannor. “Online Planning with Lookahead Policies”. <em>Proceedings of the Thirty-Fourth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2020), 2020. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips20.pdf) </span>
 
@@ -95,7 +95,7 @@ author_profile: true
 
 ## **2019**
 
-### &emsp; **Conferences** 
+### &emsp; **Conference** 
 
 - <span style="font-size:0.9em;">Yonathan Effroni, Nadav Merlis, Mohammad Ghavamzadeh, & Shie Mannor. “Tight Regret Bounds for Model-based Reinforcement Learning with Greedy Policies”.  <span style="color:red">***Accepted for Spotlight Presentation.***</span> <em>Proceedings of the Thirty-Second Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2019), pp. 12224-12234, 2019. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips19-RTDP.pdf) </span>
 
