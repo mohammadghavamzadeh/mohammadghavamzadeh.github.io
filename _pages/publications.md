@@ -28,15 +28,15 @@ author_profile: true
 
 - <span style="font-size:0.9em;">Mohammad Javad Azizi, Branislav Kveton, & Mohammad Ghavamzadeh. “Fixed-Budget Best-Arm Identification in Structured Bandits”. <span style="color:red">***Selected for a long oral presentation (%4 acceptance)***</span>. <em>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence</em> (IJCAI-2022), 2022. </span>
 
-- <span style="font-size:0.9em;">Manan Tomar, Lior Shani, Yonathan Efroni, & Mohammad Ghavamzadeh. “Mirror Descent Policy Optimization”. <em>Proceedings of the Tenth International Conference on Learning Representations</em> (ICLR-2022), 2022. </span>
+- <span style="font-size:0.9em;">Manan Tomar, Lior Shani, Yonathan Efroni, & Mohammad Ghavamzadeh. “Mirror Descent Policy Optimization”. <em>Proceedings of the Tenth International Conference on Learning Representations</em> (ICLR-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr22.pdf)</span>
 
 - <span style="font-size:0.9em;">Ahmadreza Moradipari, Mohammad Ghavamzadeh, Taha Rajabzadeh, Christos Thrampoulidis, & Mahnoosh Alizadeh. “Multi-Environment Meta-Learning in Stochastic Linear Bandits”. <em>Proceedings of IEEE International Symposium on Information Theory</em> (ISIT-2022), 2022. </span>
 
 - <span style="font-size:0.9em;">Ahmadreza Moradipari, Mohammad Ghavamzadeh, & Mahnoosh Alizadeh. “Collaborative Multi-agent Stochastic Linear Bandits”. <em>Proceedings of the 2022 American Control Conference</em> (ACC-2022), 2022. </span>
 
-- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Mohammad Ghavamzadeh, & Craig Boutilier. “Thompson Sampling with a Mixture Prior”. <em>Proceedings of the Twenty-Fifth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2022), 2022. </span>
+- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Mohammad Ghavamzadeh, & Craig Boutilier. “Thompson Sampling with a Mixture Prior”. <em>Proceedings of the Twenty-Fifth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats22-TS-Mixture.pdf)</span>
 
-- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, & Mohammad Ghavamzadeh. “Hierarchical Bayesian Bandits”. <em>Proceedings of the Twenty-Fifth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2022), 2022. </span>
+- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, & Mohammad Ghavamzadeh. “Hierarchical Bayesian Bandits”. <em>Proceedings of the Twenty-Fifth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats22-Hierarchical-Bayesian-Bandit.pdf)</span>
 
 ## **2021**
 
