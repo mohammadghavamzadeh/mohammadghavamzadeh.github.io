@@ -34,6 +34,8 @@ redirect_from:
 
 ### **2022**
 
+- <span style="font-size:0.9em;">Two papers on <em>“Feature and Parameter Selection in Stochastic Linear Bandits”</em> and <em>“Deep Hierarchy in Bandits”</em> got accepted at ICML-2022.</span>
+
 - <span style="font-size:0.9em;">A paper on <em>“Fixed-Budget Best-Arm Identification in Structured Bandits”</em> <span style="color:red">***got accepted for a long oral presentation (about %4 acceptance)***</span> at IJCAI-2022.</span>
 
 - <span style="font-size:0.9em;">I was selected as a <em>highlighted area chair</em> at ICLR-2022.</span>

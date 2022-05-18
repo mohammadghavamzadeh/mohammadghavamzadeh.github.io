@@ -19,12 +19,16 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; IEEE Trans. & Journals = 4, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1, &nbsp; JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 25, &nbsp; NIPS = 18, &nbsp; AISTATS = 10, &nbsp; IJCAI = 6, &nbsp; AAAI = 4, &nbsp; AAMAS = 3, &nbsp; UAI = 3, &nbsp; ICLR = 3,**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 27, &nbsp; NIPS = 18, &nbsp; AISTATS = 10, &nbsp; IJCAI = 6, &nbsp; AAAI = 4, &nbsp; AAMAS = 3, &nbsp; UAI = 3, &nbsp; ICLR = 3,**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2**</span>
 
 ## **2022**
 
 ### &emsp; **Conference** 
+
+- <span style="font-size:0.9em;">Ahmadreza Moradipari, Berkay Turan, Yasin Abbasi-Yadkori,  Mahnoosh Alizadeh, & Mohammad Ghavamzadeh. “Feature and Parameter Selection in Stochastic Linear Bandits”. <em>Proceedings of the Thirty-Ninth International International Conference on Machine Learning</em> (ICML-2022), 2022. </span>
+
+- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Sumeet Katariya, & Mohammad Ghavamzadeh. “Deep Hierarchy in Bandits”. <em>Proceedings of the Thirty-Ninth International International Conference on Machine Learning</em> (ICML-2022), 2022. </span>
 
 - <span style="font-size:0.9em;">Mohammad Javad Azizi, Branislav Kveton, & Mohammad Ghavamzadeh. “Fixed-Budget Best-Arm Identification in Structured Bandits”. <span style="color:red">***Selected for a long oral presentation (%4 acceptance)***</span>. <em>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence</em> (IJCAI-2022), 2022. </span>
 
