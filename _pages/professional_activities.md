@@ -47,8 +47,8 @@ author_profile: true
 
 <br/> **Senior Area Chair**
 
-&emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NeurIPS 2020-2022)</span> <br/>
-&emsp;&nbsp; <span style="font-size:0.925em;">AAAI Conference on Artificial Intelligence (AAAI 2023)</span>
+&emsp;&nbsp; <span style="font-size:0.925em;">AAAI Conference on Artificial Intelligence (AAAI 2023)</span> <br/>
+&emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NeurIPS 2020-2022)</span> 
 
 <br/> **Area Chair & Senior Program Committee Member**
 
