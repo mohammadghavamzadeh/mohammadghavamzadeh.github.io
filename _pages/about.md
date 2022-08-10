@@ -34,7 +34,7 @@ redirect_from:
 
 ### **2022**
 
-- <span style="font-size:0.9em;">I serve as an <em>area chair (senior meta reviewer)</em> at AAAI-2023.</span>
+- <span style="font-size:0.9em;">I serve as an <em>area chair (senior meta-reviewer)</em> at AAAI-2023.</span>
 
 - <span style="font-size:0.9em;">I serve as an <em>area chair</em> at ICLR-2023.</span>
 

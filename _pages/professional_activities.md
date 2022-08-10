@@ -45,7 +45,7 @@ author_profile: true
 
 &emsp;&nbsp; <span style="font-size:0.925em;">European Workshop on Reinforcement Learning (EWRL, 2011-2016)</span>
 
-<br/> **Senior Area Chair**
+<br/> **Senior Area Chair & Senior Meta-Reviewer**
 
 &emsp;&nbsp; <span style="font-size:0.925em;">AAAI Conference on Artificial Intelligence (AAAI 2023)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NeurIPS 2020-2022)</span> 
