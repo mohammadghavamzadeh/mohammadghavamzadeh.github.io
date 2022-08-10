@@ -34,13 +34,13 @@ redirect_from:
 
 ### **2022**
 
+- <span style="font-size:0.9em;">I serve as an <em>area chair (senior meta reviewer)</em> at AAAI-2023.</span>
+
+- <span style="font-size:0.9em;">I serve as an <em>area chair</em> at ICLR-2023.</span>
+
 - <span style="font-size:0.9em;">Two papers on <em>“Feature and Parameter Selection in Stochastic Linear Bandits”</em> and <em>“Deep Hierarchy in Bandits”</em> got accepted at ICML-2022.</span>
 
 - <span style="font-size:0.9em;">A paper on <em>“Fixed-Budget Best-Arm Identification in Structured Bandits”</em> <span style="color:red">***got accepted for a long oral presentation (about %4 acceptance)***</span> at IJCAI-2022.</span>
-
-- <span style="font-size:0.9em;">I was selected as a <em>highlighted area chair</em> at ICLR-2022.</span>
-
-- <span style="font-size:0.9em;">I serve as a <em>senior area chair</em> for NeurIPS-2022.</span>
 
 - <span style="font-size:0.9em;">A paper on <em>“Multi-Environment Meta-Learning in Stochastic Linear Bandits”</em> got accepted at IEEE International Symposium on Information Theory (ISIT-2022).</span>
 
@@ -50,7 +50,9 @@ redirect_from:
 
 - <span style="font-size:0.9em;">Two papers on <em>“Thompson Sampling with a Mixture Prior”</em> and <em>“Hierarchical Bayesian Bandits”</em> got accepted at AISTATS-2022.</span>
 
-- <span style="font-size:0.9em;">I serve as an <em>area chair</em> for ICLR-2022 and ICML-2022.</span>
+- <span style="font-size:0.9em;">I was selected as a <em>highlighted area chair</em> at ICLR-2022.</span>
+
+- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> for NeurIPS-2022 and an <em>area chair</em> for ICLR-2022 and ICML-2022.</span>
 
 - <span style="font-size:0.9em;">I serve as a guest editor for Machine Learning Journal (MLJ), Special Issue on Safe and Fair Machine Learning.</span>
 

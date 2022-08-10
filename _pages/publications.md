@@ -26,15 +26,15 @@ author_profile: true
 
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;">Ahmadreza Moradipari, Berkay Turan, Yasin Abbasi-Yadkori,  Mahnoosh Alizadeh, & Mohammad Ghavamzadeh. “Feature and Parameter Selection in Stochastic Linear Bandits”. <em>Proceedings of the Thirty-Ninth International International Conference on Machine Learning</em> (ICML-2022), 2022. </span>
+- <span style="font-size:0.9em;">Ahmadreza Moradipari, Berkay Turan, Yasin Abbasi-Yadkori,  Mahnoosh Alizadeh, & Mohammad Ghavamzadeh. “Feature and Parameter Selection in Stochastic Linear Bandits”. <em>Proceedings of the Thirty-Ninth International International Conference on Machine Learning</em> (ICML-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml22-MS-Bandit.pdf)</span>
 
-- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Sumeet Katariya, & Mohammad Ghavamzadeh. “Deep Hierarchy in Bandits”. <em>Proceedings of the Thirty-Ninth International International Conference on Machine Learning</em> (ICML-2022), 2022. </span>
+- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Sumeet Katariya, & Mohammad Ghavamzadeh. “Deep Hierarchy in Bandits”. <em>Proceedings of the Thirty-Ninth International International Conference on Machine Learning</em> (ICML-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml22-DH-Bandit.pdf)</span>
 
-- <span style="font-size:0.9em;">Mohammad Javad Azizi, Branislav Kveton, & Mohammad Ghavamzadeh. “Fixed-Budget Best-Arm Identification in Structured Bandits”. <span style="color:red">***Selected for a long oral presentation (%4 acceptance)***</span>. <em>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence</em> (IJCAI-2022), 2022. </span>
+- <span style="font-size:0.9em;">Mohammad Javad Azizi, Branislav Kveton, & Mohammad Ghavamzadeh. “Fixed-Budget Best-Arm Identification in Structured Bandits”. <span style="color:red">***Selected for a long oral presentation (%4 acceptance)***</span>. <em>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence</em> (IJCAI-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/ijcai22.pdf)</span>
 
 - <span style="font-size:0.9em;">Manan Tomar, Lior Shani, Yonathan Efroni, & Mohammad Ghavamzadeh. “Mirror Descent Policy Optimization”. <em>Proceedings of the Tenth International Conference on Learning Representations</em> (ICLR-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr22.pdf)</span>
 
-- <span style="font-size:0.9em;">Ahmadreza Moradipari, Mohammad Ghavamzadeh, Taha Rajabzadeh, Christos Thrampoulidis, & Mahnoosh Alizadeh. “Multi-Environment Meta-Learning in Stochastic Linear Bandits”. <em>Proceedings of IEEE International Symposium on Information Theory</em> (ISIT-2022), 2022. </span>
+- <span style="font-size:0.9em;">Ahmadreza Moradipari, Mohammad Ghavamzadeh, Taha Rajabzadeh, Christos Thrampoulidis, & Mahnoosh Alizadeh. “Multi-Environment Meta-Learning in Stochastic Linear Bandits”. <em>Proceedings of IEEE International Symposium on Information Theory</em> (ISIT-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/isit22.pdf)</span>
 
 - <span style="font-size:0.9em;">Ahmadreza Moradipari, Mohammad Ghavamzadeh, & Mahnoosh Alizadeh. “Collaborative Multi-agent Stochastic Linear Bandits”. <em>Proceedings of the 2022 American Control Conference</em> (ACC-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/acc22.pdf) </span>
 
