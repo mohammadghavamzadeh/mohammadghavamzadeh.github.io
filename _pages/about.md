@@ -34,6 +34,8 @@ redirect_from:
 
 ### **2022**
 
+- <span style="font-size:0.9em;">Four papers on <em>“Robust Reinforcement Learning using Offline Data”</em>, <em>“Operator Splitting Value Iteration”</em>, <em>“Efficient Risk-Averse Reinforcement Learning”</em>, and <em>“Private and Communication-Efficient Algorithms for Entropy Estimation”</em> got accepted at NeurIPS-2022.</span>
+
 - <span style="font-size:0.9em;">I serve as an <em>area chair (senior meta-reviewer)</em> at AAAI-2023.</span>
 
 - <span style="font-size:0.9em;">I serve as an <em>area chair</em> at ICLR-2023.</span>
