@@ -46,9 +46,9 @@ author_profile: true
 
 - <span style="font-size:0.9em;">Ahmadreza Moradipari, Mohammad Ghavamzadeh, & Mahnoosh Alizadeh. “Collaborative Multi-agent Stochastic Linear Bandits”. <em>Proceedings of the 2022 American Control Conference</em> (ACC-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/acc22.pdf) </span>
 
-- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Mohammad Ghavamzadeh, & Craig Boutilier. “Thompson Sampling with a Mixture Prior”. <em>Proceedings of the Twenty-Fifth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats22-TS-Mixture.pdf)</span>
-
 - <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, & Mohammad Ghavamzadeh. “Hierarchical Bayesian Bandits”. <em>Proceedings of the Twenty-Fifth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats22-Hierarchical-Bayesian-Bandit.pdf)</span>
+
+- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Mohammad Ghavamzadeh, & Craig Boutilier. “Thompson Sampling with a Mixture Prior”. <em>Proceedings of the Twenty-Fifth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats22-TS-Mixture.pdf)</span>
 
 ## **2021**
 
