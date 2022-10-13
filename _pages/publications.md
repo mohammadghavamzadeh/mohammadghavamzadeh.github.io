@@ -26,13 +26,13 @@ author_profile: true
 
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;">Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, & Mohammad Ghavamzadeh. “Robust Reinforcement Learning using Offline Data”. <em>Proceedings of the Thirty-Sixth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2022), 2022.</span>
+- <span style="font-size:0.9em;">Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, & Mohammad Ghavamzadeh. “Robust Reinforcement Learning using Offline Data”. <em>Proceedings of the Thirty-Sixth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips22-RFQI.pdf)</span>
 
-- <span style="font-size:0.9em;">Amin Rakhsha, Andrew Wang, Mohammad Ghavamzadeh, & Amir-massoud Farahmand. “Operator Splitting Value Iteration”. <em>Proceedings of the Thirty-Sixth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2022), 2022.</span>
+- <span style="font-size:0.9em;">Amin Rakhsha, Andrew Wang, Mohammad Ghavamzadeh, & Amir-massoud Farahmand. “Operator Splitting Value Iteration”. <em>Proceedings of the Thirty-Sixth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips22-MatrixSplittingAcceleration.pdf)</span>
 
-- <span style="font-size:0.9em;">Ido Greenberg, Yinlam Chow, Mohammad Ghavamzadeh, & Shie Mannor. “Efficient Risk-Averse Reinforcement Learning”. <em>Proceedings of the Thirty-Sixth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2022), 2022.</span>
+- <span style="font-size:0.9em;">Ido Greenberg, Yinlam Chow, Mohammad Ghavamzadeh, & Shie Mannor. “Efficient Risk-Averse Reinforcement Learning”. <em>Proceedings of the Thirty-Sixth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips22-CeSor.pdf)</span>
 
-- <span style="font-size:0.9em;">Gecia Bravo-Hermsdorff, Robert Busa-Fekete, Mohammad Ghavamzadeh, Andres Munoz medina, & Umar Syed. “Private and Communication-Efficient Algorithms for Entropy Estimation”. <em>Proceedings of the Thirty-Sixth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2022), 2022.</span>
+- <span style="font-size:0.9em;">Gecia Bravo-Hermsdorff, Robert Busa-Fekete, Mohammad Ghavamzadeh, Andres Munoz medina, & Umar Syed. “Private and Communication-Efficient Algorithms for Entropy Estimation”. <em>Proceedings of the Thirty-Sixth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips22-AdaptiveTreeSampling.pdf)</span>
 
 - <span style="font-size:0.9em;">Ahmadreza Moradipari, Berkay Turan, Yasin Abbasi-Yadkori,  Mahnoosh Alizadeh, & Mohammad Ghavamzadeh. “Feature and Parameter Selection in Stochastic Linear Bandits”. <em>Proceedings of the Thirty-Ninth International International Conference on Machine Learning</em> (ICML-2022), 2022. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml22-MS-Bandit.pdf)</span>
 
