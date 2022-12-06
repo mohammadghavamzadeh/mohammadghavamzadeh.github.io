@@ -25,9 +25,9 @@ redirect_from:
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Ph.D. in Computer Science**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.875em;">University of Massachusetts Amherst, USA  (2001 - 2005)</span>
 
-<br/> **RESEARCH INTERESTS** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **EMAIL** <br/>
-&emsp; <span style="color:grey; font-size:0.85em;">Machine Learning, Artificial Intelligence,</span>  &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.85em;">ghavamza <span style="color:red">***at***</span> google <span style="color:red">***dot***</span> com</span> <br/>
-&emsp; <span style="color:grey; font-size:0.85em;">Reinforcement Learning, Online Learning,</span>  &emsp;&emsp;&emsp;&emsp;&emsp; <span style="color:grey; font-size:0.85em;">mohammad <span style="color:red">***dot***</span> ghavamzadeh51 <span style="color:red">***at***</span> gmail <span style="color:red">***dot***</span> com</span> <br/>
+<br/> **RESEARCH INTERESTS** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **EMAIL** <br/>
+&emsp; <span style="color:grey; font-size:0.85em;">Machine Learning, Artificial Intelligence,</span>  &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.85em;">ghavamza <span style="color:red">***at***</span> google <span style="color:red">***dot***</span> com</span> <br/>
+&emsp; <span style="color:grey; font-size:0.85em;">Reinforcement Learning, Online Learning,</span>  &emsp;&emsp;&emsp;&emsp; <span style="color:grey; font-size:0.85em;">mohammad <span style="color:red">***dot***</span> ghavamzadeh51 <span style="color:red">***at***</span> gmail <span style="color:red">***dot***</span> com</span> <br/>
 &emsp; <span style="color:grey; font-size:0.85em;">Recommendation Systems, Control</span> 
 
 ### **RECENT NEWS ...**
