@@ -11,7 +11,7 @@ redirect_from:
 <br/> **PROFESSIONAL EXPERIENCE** <br/>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Staff Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Research Scientist**</span> <br/>
-&nbsp;&nbsp; <span style="font-size:0.85em;">Google Research  (2020 - present)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Facebook AI Research (FAIR)  (2018 - 2020)</span>
+&nbsp;&nbsp; <span style="font-size:0.85em;">Google Research  (2020 - present)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Facebook AI Research (FAIR)  (2018 - 2020)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Staff Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Analytics Researcher**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.85em;">Google DeepMind  (2017 - 2018)</span> &emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Adobe Research  (2013 - 2017)</span>
