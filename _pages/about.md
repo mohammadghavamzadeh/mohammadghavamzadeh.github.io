@@ -19,8 +19,8 @@ redirect_from:
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Chargé de Recherche  CR1**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Chargé de recherche  CR2**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.85em;">INRIA Lille - Team SequeL  (2010 - 2013)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">INRIA Lille - Team SequeL  (2008 - 2010)</span>
 
-&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Habilitation à Diriger des Recherches (HDR)**</span> &emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Postdoctoral Fellow**</span> <br/>
-&nbsp;&nbsp; <span style="font-size:0.85em;">Université Lille 1, France  (June 2014)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="font-size:0.85em;">nniversity of Alberta, Canada  (2005 - 2008)</span>
+&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Habilitation à Diriger des Recherches (HDR)**</span> &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Postdoctoral Fellow**</span> <br/>
+&nbsp;&nbsp; <span style="font-size:0.85em;">Université Lille 1, France  (June 2014)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="font-size:0.85em;">University of Alberta, Canada  (2005 - 2008)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Ph.D. in Computer Science**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.875em;">University of Massachusetts Amherst, USA  (2001 - 2005)</span>
