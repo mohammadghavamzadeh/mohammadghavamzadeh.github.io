@@ -20,7 +20,7 @@ redirect_from:
 &nbsp;&nbsp; <span style="font-size:0.85em;">INRIA Lille - Team SequeL  (2010 - 2013)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">INRIA Lille - Team SequeL  (2008 - 2010)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Habilitation à Diriger des Recherches (HDR)**</span> &emsp;&emsp; <span style="color:grey; font-size:0.875em;">**Postdoctoral Fellow**</span> <br/>
-&nbsp;&nbsp; <span style="font-size:0.85em;">Université Lille 1, France  (June 2014)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">University of Alberta, Canada  (2005 - 2008)</span>
+&nbsp;&nbsp; <span style="font-size:0.85em;">Université Lille 1, France  (June 2014)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">University of Alberta, Canada  (2005 - 2008)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Ph.D. in Computer Science**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.875em;">University of Massachusetts Amherst, USA  (2001 - 2005)</span>
@@ -32,31 +32,25 @@ redirect_from:
 
 ### **RECENT NEWS ...**
 
-### **2022**
+### **2023**
 
-- <span style="font-size:0.9em;">Four papers on <em>“Robust Reinforcement Learning using Offline Data”</em>, <em>“Operator Splitting Value Iteration”</em>, <em>“Efficient Risk-Averse Reinforcement Learning”</em>, and <em>“Private and Communication-Efficient Algorithms for Entropy Estimation”</em> got accepted at NeurIPS-2022.</span>
-
-- <span style="font-size:0.9em;">I serve as an <em>area chair (senior meta-reviewer)</em> at AAAI-2023.</span>
+- <span style="font-size:0.9em;">A paper on <em>“Meta-Learning for Simple Regret Minimization”</em> got accepted at AAAI-2023.</span>
 
 - <span style="font-size:0.9em;">I serve as an <em>area chair</em> at ICLR-2023.</span>
 
-- <span style="font-size:0.9em;">Two papers on <em>“Feature and Parameter Selection in Stochastic Linear Bandits”</em> and <em>“Deep Hierarchy in Bandits”</em> got accepted at ICML-2022.</span>
+- <span style="font-size:0.9em;">I serve as an <em>area chair (senior meta-reviewer)</em> at AAAI-2023.</span>
 
-- <span style="font-size:0.9em;">A paper on <em>“Fixed-Budget Best-Arm Identification in Structured Bandits”</em> <span style="color:red">***got accepted for a long oral presentation (about %4 acceptance)***</span> at IJCAI-2022.</span>
+### **2022**
 
-- <span style="font-size:0.9em;">A paper on <em>“Multi-Environment Meta-Learning in Stochastic Linear Bandits”</em> got accepted at IEEE International Symposium on Information Theory (ISIT-2022).</span>
+- <span style="font-size:0.9em;">Twelve conference papers published: <em>“Robust Reinforcement Learning using Offline Data”</em>, <em>“Operator Splitting Value Iteration”</em>, <em>“Efficient Risk-Averse Reinforcement Learning”</em>, and <em>“Private and Communication-Efficient Algorithms for Entropy Estimation”</em> at NeurIPS-2022, <em>“Feature and Parameter Selection in Stochastic Linear Bandits”</em> and <em>“Deep Hierarchy in Bandits”</em> at ICML-2022, <em>“Fixed-Budget Best-Arm Identification in Structured Bandits”</em> at IJCAI-2022, <em>“Mirror Descent Policy Optimization”</em> at ICLR-2022, <em>“Thompson Sampling with a Mixture Prior”</em> and <em>“Hierarchical Bayesian Bandits”</em> at AISTATS-2022,<em>“Multi-Environment Meta-Learning in Stochastic Linear Bandits”</em> at IEEE International Symposium on Information Theory (ISIT-2022), and <em>“Collaborative Multi-agent Stochastic Linear Bandits”</em> at ACC-2022.
 
-- <span style="font-size:0.9em;">A paper on <em>“Mirror Descent Policy Optimization”</em> got accepted at ICLR-2022.</span>
-
-- <span style="font-size:0.9em;">A paper on <em>“Collaborative Multi-agent Stochastic Linear Bandits”</em> got accepted at ACC-2022.</span>
-
-- <span style="font-size:0.9em;">Two papers on <em>“Thompson Sampling with a Mixture Prior”</em> and <em>“Hierarchical Bayesian Bandits”</em> got accepted at AISTATS-2022.</span>
+- <span style="font-size:0.9em;">Our paper on <em>“Fixed-Budget Best-Arm Identification in Structured Bandits”</em> <span style="color:red">***got accepted for a long oral presentation (about %4 acceptance)***</span> at IJCAI-2022.</span>
 
 - <span style="font-size:0.9em;">I was selected as a <em>highlighted area chair</em> at ICLR-2022.</span>
 
 - <span style="font-size:0.9em;">I served as a <em>senior area chair</em> for NeurIPS-2022 and an <em>area chair</em> for ICLR-2022 and ICML-2022.</span>
 
-- <span style="font-size:0.9em;">I serve as a guest editor for Machine Learning Journal (MLJ), Special Issue on Safe and Fair Machine Learning.</span>
+- <span style="font-size:0.9em;">I served as a guest editor for Machine Learning Journal (MLJ), Special Issue on Safe and Fair Machine Learning.</span>
 
 ### **2021**
 
