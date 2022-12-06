@@ -11,13 +11,13 @@ redirect_from:
 <br/> **PROFESSIONAL EXPERIENCE** <br/>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Staff Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Research Scientist**</span> <br/>
-&nbsp;&nbsp; <span style="font-size:0.85em;">Google Research  (Jun. 2020 - present)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Facebook AI Research (FAIR)  (Oct. 2018 - Jun. 2020)</span>
+&nbsp;&nbsp; <span style="font-size:0.85em;">Google Research  (2020 - present)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Facebook AI Research (FAIR)  (2018 - 2020)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Staff Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Analytics Researcher**</span> <br/>
-&nbsp;&nbsp; <span style="font-size:0.85em;">Google DeepMind  (Jun. 2017 - Oct. 2018)</span> &emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Adobe Research  (Oct. 2013 - Jun. 2017)</span>
+&nbsp;&nbsp; <span style="font-size:0.85em;">Google DeepMind  (2017 - 2018)</span> &emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Adobe Research  (2013 - 2017)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Chargé de Recherche  CR1**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Chargé de recherche  CR2**</span> <br/>
-&nbsp;&nbsp; <span style="font-size:0.85em;">INRIA Lille - Team SequeL  (2010 - Oct. 2013)</span> &emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">INRIA Lille - Team SequeL  (2008 - 2010)</span>
+&nbsp;&nbsp; <span style="font-size:0.85em;">INRIA Lille - Team SequeL  (2010 - 2013)</span> &emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">INRIA Lille - Team SequeL  (2008 - 2010)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Habilitation à Diriger des Recherches (HDR)**</span> &emsp;&emsp; <span style="color:grey; font-size:0.875em;">**Postdoctoral Fellow**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.85em;">Université Lille 1, France  (June 2014)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">University of Alberta, Canada  (2005 - 2008)</span>
