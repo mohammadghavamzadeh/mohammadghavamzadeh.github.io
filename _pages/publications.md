@@ -62,7 +62,7 @@ author_profile: true
 
 - <span style="font-size:0.9em;">Shubhanshu Shekhar, Mohammad Ghavamzadeh, & Tara Javidi. “Active Learning for Classification with Abstention”. <em>IEEE Journal on Selected Areas in Information Theory</em> (JSAIT), 2(2):705-719, 2021 (DOI: 10.1109/JSAIT.2021.3081433). &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/JSAIT21.pdf) </span>
 
-- <span style="font-size:0.9em;">Moloud Abdar, Farhad Pourpanah, Sadiq Hussain, Dana Rezazadegan, Li Liu, Mohammad Ghavamzadeh, Paul Fieguth, Xiaochun Cao, Abbas Khosravi, Rajendra Acharya, Vladimir Makarenkov, & Saeid Nahavandi. “A Review on Uncertainty Quantification in Deep Learning: Techniques, Applications, and Challenges”. <em>Elsevier Journal on Information Fusion</em>, 76:243-297, 2021 (DOI: 10.1016/j.inffus.2021.05.008). &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/Information-Fusion21.pdf) <span style="color:red">***(winner of the Information Fusion Journal 2022 best survey award)***</span> </span>
+- <span style="font-size:0.9em;">Moloud Abdar, Farhad Pourpanah, Sadiq Hussain, Dana Rezazadegan, Li Liu, Mohammad Ghavamzadeh, Paul Fieguth, Xiaochun Cao, Abbas Khosravi, Rajendra Acharya, Vladimir Makarenkov, & Saeid Nahavandi. “A Review on Uncertainty Quantification in Deep Learning: Techniques, Applications, and Challenges”. <em>Elsevier Journal on Information Fusion</em>, 76:243-297, 2021 (DOI: 10.1016/j.inffus.2021.05.008) <span style="color:red">***(winner of the Information Fusion Journal 2022 best survey award)***</span>. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/Information-Fusion21.pdf) </span>
 
 ### &emsp; **Conference** 
 
