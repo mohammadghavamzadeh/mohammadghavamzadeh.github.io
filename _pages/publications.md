@@ -19,12 +19,18 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; IEEE Trans. & Journals = 4, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1, &nbsp; JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 27, &nbsp; NIPS = 22, &nbsp; AISTATS = 10, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; AAMAS = 3, &nbsp; UAI = 3, &nbsp; ICLR = 3,**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 27, &nbsp; NIPS = 22, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; AAMAS = 3, &nbsp; UAI = 3, &nbsp; ICLR = 4,**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2**</span>
 
 ## **2023**
 
 ### &emsp; **Conference** 
+
+- <span style="font-size:0.9em;">Yinlam Chow, Aza Tulepbergenov, Ofir Nachum, MoonKyung Ryu, Mohammad Ghavamzadeh, & Craig Boutilier. “A Mixture-of-Expert Approach to RL-based Dialogue Management”. <em>Proceedings of the Eleventh International Conference on Learning Representations</em> (ICLR-2023).</span>
+
+- <span style="font-size:0.9em;">Jia Lin Hau, Marek Petrik, Reazul Russel, & Mohammad Ghavamzadeh. “Entropic Risk Optimization in Discounted MDPs”. <em>Proceedings of the Twenty-Sixth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2023).</span>
+
+- <span style="font-size:0.9em;">Teodor Marinov, Chris Dunn, & Mohammad Ghavamzadeh. “Multiple-policy High-confidence Policy Evaluation”. <em>Proceedings of the Twenty-Sixth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2023).</span>
 
 - <span style="font-size:0.9em;">Javad Azizi, Branislav Kveton, Mohammad Ghavamzadeh, & Sumeet Katariya. “Meta-Learning for Simple Regret Minimization”. <em>Proceedings of the Thirty-Seventh Conference on Artificial Intelligence</em> (AAAI-2023).</span>
 

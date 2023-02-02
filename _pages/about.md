@@ -34,11 +34,17 @@ redirect_from:
 
 ### **2023**
 
+- <span style="font-size:0.9em;">A paper on <em>“A Mixture-of-Expert Approach to RL-based Dialogue Management”</em> got accepted at ICLR-2023.</span>
+
+- <span style="font-size:0.9em;">Two papers on <em>“Entropic Risk Optimization in Discounted MDPs”</em> and <em>“Multiple-policy High-confidence Policy Evaluation”</em> got accepted at AISTATS-2023.</span>
+
+- <span style="font-size:0.9em;">I serve as a <em>senior area chair</em> at ICML-2023.</span>
+
 - <span style="font-size:0.9em;">A paper on <em>“Meta-Learning for Simple Regret Minimization”</em> got accepted at AAAI-2023.</span>
 
-- <span style="font-size:0.9em;">I serve as an <em>area chair</em> at ICLR-2023.</span>
+- <span style="font-size:0.9em;">I served as an <em>area chair</em> at ICLR-2023.</span>
 
-- <span style="font-size:0.9em;">I serve as an <em>area chair (senior meta-reviewer)</em> at AAAI-2023.</span>
+- <span style="font-size:0.9em;">I served as an <em>area chair (senior meta-reviewer)</em> at AAAI-2023.</span>
 
 ### **2022**
 
