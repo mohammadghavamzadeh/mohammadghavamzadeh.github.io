@@ -7,6 +7,8 @@ author_profile: true
 
 <br/> **Organizing Committee**
 
+&emsp;&nbsp; <span style="font-size:0.925em;">Co-chair (with Aadirupa Saha, Robert Busa-Fekete, Branislav Kveton, and Viktor Bengs) of a workshop on <em>“The Many Facets of Preference-Based Learning”</em> at the Fortieth International Conference on Machine Learning (ICML), 2023.</span>
+
 &emsp;&nbsp; <span style="font-size:0.925em;">Co-chair (with Alessandro Lazaric and Matteo Pirotta) of a tutorial on <em>“Exploration-Exploitation in Reinforcement Learning”</em> at the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.</span>
 
 &emsp;&nbsp; <span style="font-size:0.925em;">Co-chair (with Shie Mannor, Yisong Yue, Marek Petrik, and Yinlam Chow) of a workshop on <em>“Safety and Robustness in Decision-making”</em> at the Thirty-Third Annual Conference on Neural Information Processing Systems (NeurIPS), 2019.</span>
