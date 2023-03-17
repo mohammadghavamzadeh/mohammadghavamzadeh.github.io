@@ -26,11 +26,11 @@ author_profile: true
 
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;">Yinlam Chow, Aza Tulepbergenov, Ofir Nachum, MoonKyung Ryu, Mohammad Ghavamzadeh, & Craig Boutilier. “A Mixture-of-Expert Approach to RL-based Dialogue Management”. <em>Proceedings of the Eleventh International Conference on Learning Representations</em> (ICLR-2023), 2023.</span>
+- <span style="font-size:0.9em;">Yinlam Chow, Aza Tulepbergenov, Ofir Nachum, MoonKyung Ryu, Mohammad Ghavamzadeh, & Craig Boutilier. “A Mixture-of-Expert Approach to RL-based Dialogue Management”. <em>Proceedings of the Eleventh International Conference on Learning Representations</em> (ICLR-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr23.pdf)</span>
 
-- <span style="font-size:0.9em;">Jia Lin Hau, Marek Petrik, & Mohammad Ghavamzadeh. “Entropic Risk Optimization in Discounted MDPs”. <em>Proceedings of the Twenty-Sixth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2023), 2023.</span>
+- <span style="font-size:0.9em;">Jia Lin Hau, Marek Petrik, & Mohammad Ghavamzadeh. “Entropic Risk Optimization in Discounted MDPs”. <em>Proceedings of the Twenty-Sixth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats23-risk.pdf)</span>
 
-- <span style="font-size:0.9em;">Chris Dunn, Mohammad Ghavamzadeh, \& Teodor Marinov. “Multiple-policy High-confidence Policy Evaluation”. <em>Proceedings of the Twenty-Sixth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2023), 2023.</span>
+- <span style="font-size:0.9em;">Chris Dunn, Mohammad Ghavamzadeh, & Teodor Marinov. “Multiple-policy High-confidence Policy Evaluation”. <em>Proceedings of the Twenty-Sixth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats23-explore.pdf)</span>
 
 - <span style="font-size:0.9em;">Javad Azizi, Branislav Kveton, Mohammad Ghavamzadeh, & Sumeet Katariya. “Meta-Learning for Simple Regret Minimization”. <em>Proceedings of the Thirty-Seventh Conference on Artificial Intelligence</em> (AAAI-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aaai23.pdf)</span>
 
