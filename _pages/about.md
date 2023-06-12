@@ -36,6 +36,8 @@ redirect_from:
 
 - <span style="font-size:0.9em;">Our workshop on <em>“The Many Facets of Preference-Based Learning”</em> got accepted at ICML-2023.</span>
 
+- <span style="font-size:0.9em;">A paper on <em>“Multi-Task Off-Policy Learning from Bandit Feedback”</em> got accepted at ICML-2023.</span>
+
 - <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at NeurIPS-2023.</span>
 
 - <span style="font-size:0.9em;">A paper on <em>“A Mixture-of-Expert Approach to RL-based Dialogue Management”</em> got accepted at ICLR-2023.</span>

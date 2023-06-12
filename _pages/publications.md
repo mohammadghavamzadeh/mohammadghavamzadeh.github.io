@@ -19,12 +19,14 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; IEEE Trans. & Journals = 4, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1, &nbsp; JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 27, &nbsp; NIPS = 22, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; AAMAS = 3, &nbsp; UAI = 3, &nbsp; ICLR = 4,**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 28, &nbsp; NIPS = 22, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; AAMAS = 3, &nbsp; UAI = 3, &nbsp; ICLR = 4,**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2**</span>
 
 ## **2023**
 
 ### &emsp; **Conference** 
+
+- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Sumeet Katariya & Mohammad Ghavamzadeh. “Multi-Task Off-Policy Learning from Bandit Feedback”. <em>Proceedings of the Fortieth International International Conference on Machine Learning</em> (ICML-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml23.pdf)</span>
 
 - <span style="font-size:0.9em;">Yinlam Chow, Aza Tulepbergenov, Ofir Nachum, MoonKyung Ryu, Mohammad Ghavamzadeh, & Craig Boutilier. “A Mixture-of-Expert Approach to RL-based Dialogue Management”. <em>Proceedings of the Eleventh International Conference on Learning Representations</em> (ICLR-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr23.pdf)</span>
 
