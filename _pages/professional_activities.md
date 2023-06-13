@@ -40,7 +40,7 @@ author_profile: true
 
 <br/> **Editorial Board Member**
 
-&emsp;&nbsp; <span style="font-size:0.925em;">Machine Learning Journal – Special Issue on Safe and Fair Machine Learning (2021-2022)</span> <br/>
+&emsp;&nbsp; <span style="font-size:0.925em;">Machine Learning Journal – Special Issue on Safe and Fair Machine Learning (2021-2023)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">Machine Learning Journal (2011-2020)</span>
 
 <br/> **Steering Committee Member**
