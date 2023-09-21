@@ -20,11 +20,13 @@ author_profile: true
 
 ### **CONFERENCES**
 &emsp; <span style="color:grey; font-size:0.95em;">**ICML = 28, &nbsp; NIPS = 22, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; ICLR = 4, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
-&emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2**</span>
+&emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2, &nbsp; CDC = 1**</span>
 
 ## **2023**
 
 ### &emsp; **Conference** 
+
+- <span style="font-size:0.9em;"> & Mohammad Ghavamzadeh. “Distributionally Robust Behavioral Cloning for Robust Imitation Learning”. <em>Proceedings of the Sixty Second IEEE Conference on Decision and Control</em> (CDC-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/cdc23.pdf)</span>
 
 - <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Sumeet Katariya & Mohammad Ghavamzadeh. “Multi-Task Off-Policy Learning from Bandit Feedback”. <em>Proceedings of the Fortieth International International Conference on Machine Learning</em> (ICML-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml23.pdf)</span>
 
