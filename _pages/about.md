@@ -42,7 +42,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">A paper on <em>“Distributionally Robust Behavioral Cloning for Robust Imitation Learning”</em> got accepted at CDC-2023.</span>
 
-- <span style="font-size:0.9em;">I will serve as a <em>Meta Reviewer</em> at AAAI-2024.</span>
+- <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at AAAI-2024.</span>
 
 - <span style="font-size:0.9em;">Our workshop on <em>“The Many Facets of Preference-Based Learning”</em> got accepted at ICML-2023.</span>
 
@@ -60,7 +60,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I served as an <em>area chair</em> at ICLR-2023.</span>
 
-- <span style="font-size:0.9em;">I served as an <em>area chair (senior meta-reviewer)</em> at AAAI-2023.</span>
+- <span style="font-size:0.9em;">I served as an <em>area chair</em> at AAAI-2023.</span>
 
 ### **2022**
 
