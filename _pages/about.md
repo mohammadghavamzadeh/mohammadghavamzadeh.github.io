@@ -36,7 +36,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at ICLR-2024.</span>
 
-- <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at AAAI-2024.</span>
+- <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at AAAI-2024.</span>
 
 ### **2023**
 
@@ -44,9 +44,9 @@ redirect_from:
 
 - <span style="font-size:0.9em;">Ten conference papers published: <em>“Ordering-based Conditions for Global Convergence of Policy Gradient Methods”</em>, <em>“On Dynamic Programming Decompositions of Static Risk Measures in Markov Decision Processes”</em>, <em>“Offline Reinforcement Learning for Mixture-of-Expert Dialogue Management”</em>, and <em>“Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models”</em> at NeurIPS-2023, <em>“Multi-Task Off-Policy Learning from Bandit Feedback”</em> at ICML-2023, <em>“A Mixture-of-Expert Approach to RL-based Dialogue Management”</em> at ICLR-2023, <em>“Entropic Risk Optimization in Discounted MDPs”</em> and <em>“Multiple-policy High-confidence Policy Evaluation”</em> at AISTATS-2023, <em>“Distributionally Robust Behavioral Cloning for Robust Imitation Learning”</em> at CDC-2023, <em>“Meta-Learning for Simple Regret Minimization”</em> at AAAI-2023.</span>
 
-- <span style="font-size:0.9em;">I co-chaired a workshop on <em>“The Many Facets of Preference-Based Learning”</em> got accepted at ICML-2023.</span>
+- <span style="font-size:0.9em;">I co-chaired a workshop on <em>“The Many Facets of Preference-Based Learning”</em> at ICML-2023.</span>
 
-- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> at ICML-2023 and an <em>area chair</em> at NeurIPS-2023, ICLR-2023, and AAAI-2023.</span>
+- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> at ICML-2023 and AAAI-2023, and as an <em>area chair</em> at NeurIPS-2023 and ICLR-2023.</span>
 
 ### **2022**
 
