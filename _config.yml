@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mohammad Ghavamzadeh"
   avatar           : "homepage_pic.jpeg"
-  bio              : "Senior Staff Research Scientist at Google"
+  bio              : "Senior Principle Scientist at Amazon"
   location         : "Palo Alto, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=LHIPpCsAAAAJ&hl=en"
-  email            : #"mailto:ghavamza@google.com"
+  email            : #"mailto:ghavamza@amazon.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
