@@ -19,16 +19,24 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; IEEE Trans. & Journals = 4, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1**</span> <br/> &emsp; <span style="color:grey; font-size:0.95em;">**JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 28, &nbsp; NIPS = 22, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; ICLR = 4, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 28, &nbsp; NeurIPS = 26, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; ICLR = 4, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2, &nbsp; CDC = 1**</span>
 
 ## **2023**
 
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;"> Kishan Panaganti, Zaiyan Xu, Dileep Kalathil & Mohammad Ghavamzadeh. “Distributionally Robust Behavioral Cloning for Robust Imitation Learning”. <em>Proceedings of the Sixty Second IEEE Conference on Decision and Control</em> (CDC-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/cdc23.pdf)</span>
+- <span style="font-size:0.9em;"> Jincheng Mei, Bo Dai, Alekh Agarwal, Mohammad Ghavamzadeh, Csaba Szepevari, & Dale Schuurmans. “Ordering-based Conditions for Global Convergence of Policy Gradient Methods”. <em>Proceedings of the Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-PG.pdf)</span>
 
-- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Sumeet Katariya & Mohammad Ghavamzadeh. “Multi-Task Off-Policy Learning from Bandit Feedback”. <em>Proceedings of the Fortieth International International Conference on Machine Learning</em> (ICML-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml23.pdf)</span>
+- <span style="font-size:0.9em;"> Ying Fan, Olivia Watkins, Yuqing Du, Hao Liu, Moonkyung Ryu, Craig Boutilier, Pieter Abbeel, Mohammad Ghavamzadeh, Kangwook Lee, & Kimin Lee. “DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models”. <em>Proceedings of the Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-DPOK.pdf)</span>
+
+- <span style="font-size:0.9em;"> Jia Lin Hau, Erick Delage, Mohammad Ghavamzadeh, & Marek Petrik. “On Dynamic Programming Decompositions of Static Risk Measures in Markov Decision Processes”. <em>Proceedings of the Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-risk.pdf)</span>
+
+- <span style="font-size:0.9em;"> Dhawal Gupta, Yinlam Chow, Aza Tulepbergenov, Mohammad Ghavamzadeh, & Craig Boutilier. “Offline Reinforcement Learning for Mixture-of-Expert Dialogue Management”. <em>Proceedings of the Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-MoE.pdf)</span>
+
+- <span style="font-size:0.9em;"> Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, & Mohammad Ghavamzadeh. “Distributionally Robust Behavioral Cloning for Robust Imitation Learning”. <em>Proceedings of the Sixty Second IEEE Conference on Decision and Control</em> (CDC-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/cdc23.pdf)</span>
+
+- <span style="font-size:0.9em;">Joey Hong, Branislav Kveton, Manzil Zaheer, Sumeet Katariya, & Mohammad Ghavamzadeh. “Multi-Task Off-Policy Learning from Bandit Feedback”. <em>Proceedings of the Fortieth International International Conference on Machine Learning</em> (ICML-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml23.pdf)</span>
 
 - <span style="font-size:0.9em;">Yinlam Chow, Aza Tulepbergenov, Ofir Nachum, MoonKyung Ryu, Mohammad Ghavamzadeh, & Craig Boutilier. “A Mixture-of-Expert Approach to RL-based Dialogue Management”. <em>Proceedings of the Eleventh International Conference on Learning Representations</em> (ICLR-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr23.pdf)</span>
 
