@@ -36,9 +36,13 @@ redirect_from:
 
 ### **2024**
 
-- <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at ICLR-2024.</span>
+- <span style="font-size:0.9em;">Two papers on <em>“Confidence-aware Reward Optimization for Fine-tuning Text-to-Image Models”</em> and <em>“Maximum Entropy Model Correction in Reinforcement Learning”</em> got accepted at ICLR-2024.</span>
 
-- <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at AAAI-2024.</span>
+- <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at ICML-2024.</span>
+
+- <span style="font-size:0.9em;">I served as an <em>area chair</em> at ICLR-2024.</span>
+
+- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> at AAAI-2024.</span>
 
 ### **2023**
 
