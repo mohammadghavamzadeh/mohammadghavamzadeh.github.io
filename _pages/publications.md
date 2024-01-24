@@ -26,7 +26,7 @@ author_profile: true
 
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;"> Jincheng Mei, Bo Dai, Alekh Agarwal, Mohammad Ghavamzadeh, Csaba Szepevari, & Dale Schuurmans. “Ordering-based Conditions for Global Convergence of Policy Gradient Methods”. <em>Proceedings of the Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-PG.pdf)</span>
+- <span style="font-size:0.9em;"> Jincheng Mei, Bo Dai, Alekh Agarwal, Mohammad Ghavamzadeh, Csaba Szepevari, & Dale Schuurmans. “Ordering-based Conditions for Global Convergence of Policy Gradient Methods”. <span style="color:red">***Accepted for Oral Presentation (%0.54 acceptance - 67 out of 12345 submissions).***</span><em>Proceedings of the Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-PG.pdf)</span>
 
 - <span style="font-size:0.9em;"> Ying Fan, Olivia Watkins, Yuqing Du, Hao Liu, Moonkyung Ryu, Craig Boutilier, Pieter Abbeel, Mohammad Ghavamzadeh, Kangwook Lee, & Kimin Lee. “DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models”. <em>Proceedings of the Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-DPOK.pdf)</span>
 
@@ -45,6 +45,10 @@ author_profile: true
 - <span style="font-size:0.9em;">Chris Dunn, Mohammad Ghavamzadeh, & Teodor Marinov. “Multiple-policy High-confidence Policy Evaluation”. <em>Proceedings of the Twenty-Sixth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats23-explore.pdf)</span>
 
 - <span style="font-size:0.9em;">Javad Azizi, Branislav Kveton, Mohammad Ghavamzadeh, & Sumeet Katariya. “Meta-Learning for Simple Regret Minimization”. <em>Proceedings of the Thirty-Seventh Conference on Artificial Intelligence</em> (AAAI-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aaai23.pdf)</span>
+
+### &emsp; **Workshop** 
+
+- <span style="font-size:0.9em;">Audrey Huang, Mohammad Ghavamzadeh, Nan Jiang, & Marek Petrik. “Non-adaptive Online Fine- tuning for Offline Reinforcement Learning”. Seventh Workshop on <em>“Generalization in Planning" (GenPlan-2023), Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023.</span>
 
 ## **2022**
 
