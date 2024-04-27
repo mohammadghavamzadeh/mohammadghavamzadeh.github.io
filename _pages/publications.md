@@ -19,8 +19,16 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; IEEE Trans. & Journals = 4, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1**</span> <br/> &emsp; <span style="color:grey; font-size:0.95em;">**JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 28, &nbsp; NeurIPS = 26, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; ICLR = 4, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 28, &nbsp; NeurIPS = 26, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; ICLR = 6, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2, &nbsp; CDC = 1**</span>
+
+## **2024**
+
+### &emsp; **Conference** 
+
+- <span style="font-size:0.9em;"> Kyuyoung Kim, Jongheon Jeong, Minyong An, Mohammad Ghavamzadeh, Krishnamurthy Dvijotham, Jinwoo Shin, & Kimin Lee. “Confidence-aware Reward Optimization for Fine-tuning Text-to-Image Models”. <em>Proceedings of the Twelfth International Conference on Learning Representations</em> (ICLR-2024), 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr24-ROP.pdf)</span>
+
+- <span style="font-size:0.9em;"> Amin Rakhsha, Mete Kemertas, Mohammad Ghavamzadeh, & Amir-massoud Farahmand, “Maxi- mum Entropy Model Correction in Reinforcement Learning”. <em>Proceedings of the Twelfth International Conference on Learning Representations</em> (ICLR-2024), 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr24-MaxEnt.pdf)</span>
 
 ## **2023**
 

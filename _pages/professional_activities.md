@@ -61,7 +61,7 @@ author_profile: true
 &emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Learning Representations (ICLR 2021-2024)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Artificial Intelligence and Statistics (AISTATS 2020)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Joint Conference on Artificial Intelligence (IJCAI 2011, 2015, 2016, 2018)</span> <br/>
-&emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NeurIPS 2013, 2014, 2017-2019, 2023)</span>
+&emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NeurIPS 2013, 2014, 2017-2019, 2023, 2024)</span>
 
 <br/> **Program Committee Member**
 
