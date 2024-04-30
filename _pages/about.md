@@ -38,6 +38,8 @@ redirect_from:
 
 - <span style="font-size:0.9em;">Two papers on <em>“Confidence-aware Reward Optimization for Fine-tuning Text-to-Image Models”</em> and <em>“Maximum Entropy Model Correction in Reinforcement Learning”</em> got accepted at ICLR-2024.</span>
 
+- <span style="font-size:0.9em;">A journal paper on <em>“Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors”</em> published at ACM Transactions on Recommender Systems.</span>
+
 - <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at NeurIPS-2024.</span>
 
 - <span style="font-size:0.9em;">I served as a <em>senior area chair</em> at ICML-2024.</span>

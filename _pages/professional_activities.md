@@ -7,7 +7,9 @@ author_profile: true
 
 <br/> **Organizing Committee**
 
-&emsp;&nbsp; <span style="font-size:0.925em;">Co-chair (with Aadirupa Saha, Robert Busa-Fekete, Branislav Kveton, and Viktor Bengs) of a workshop on <em>“The Many Facets of Preference-Based Learning”</em> at the Fortieth International Conference on Machine Learning (ICML), 2023.</span>
+&emsp;&nbsp; <span style="font-size:0.925em;">Co-chair (with Jalaj Bhandari, Yonathan Efroni, Daniel Jiang, Aldo Pacchiano, Yi Wan, Kelly Zhang, and Angela Zhou) of a workshop on <em>“Deployable RL: From Research to Practice”</em> at the First Reinforcement Learning Conference (RLC), 2024.</span>
+
+&emsp;&nbsp; <span style="font-size:0.925em;">Co-chair (with Viktor Bengs, Robert Busa-Fekete, Branislav Kveton, and Aadirupa Saha) of a workshop on <em>“The Many Facets of Preference-Based Learning”</em> at the Fortieth International Conference on Machine Learning (ICML), 2023.</span>
 
 &emsp;&nbsp; <span style="font-size:0.925em;">Co-chair (with Alessandro Lazaric and Matteo Pirotta) of a tutorial on <em>“Exploration-Exploitation in Reinforcement Learning”</em> at the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.</span>
 
