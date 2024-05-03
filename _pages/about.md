@@ -44,11 +44,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at NeurIPS-2024.</span>
 
-- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> at ICML-2024.</span>
-
-- <span style="font-size:0.9em;">I served as an <em>area chair</em> at ICLR-2024.</span>
-
-- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> at AAAI-2024.</span>
+- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> at ICML-2024 and AAAI-2024, and an <em>area chair</em> at ICLR-2024.</span>
 
 ### **2023**
 
