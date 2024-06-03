@@ -11,7 +11,7 @@ redirect_from:
 <br/> **PROFESSIONAL EXPERIENCE** <br/>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Principal Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Staff Research Scientist**</span> <br/>
-&nbsp;&nbsp; <span style="font-size:0.85em;">Amazon  (2023 - present)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Google Research  (2020 - 2023)</span>
+&nbsp;&nbsp; <span style="font-size:0.85em;">Amazon AGI (2023 - present)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Google Research  (2020 - 2023)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <span style="color:grey; font-size:0.875em;">**Staff Research Scientist**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.85em;">Facebook AI Research  (2018 - 2020)</span> &emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="font-size:0.85em;">DeepMind  (2017 - 2018)</span>
