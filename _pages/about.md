@@ -36,6 +36,8 @@ redirect_from:
 
 ### **2024**
 
+- <span style="font-size:0.9em;">A paper on <em>“Factual and Tailored Recommendation Endorsements using Language Models and Reinforcement Learning”</em> got accepted at COLM-2024.</span>
+
 - <span style="font-size:0.9em;">Two papers on <em>“Non-adaptive Online Finetuning for Offline Reinforcement Learning”</em> and <em>“Non-stationary Bandits and Meta-Learning with a Small Set of Optimal Arms”</em> got accepted at RLC-2024.</span>
 
 - <span style="font-size:0.9em;">I will co-chair a workshop on <em>“Deployable RL: From Research to Practice”</em> at RLC-2024.</span>
