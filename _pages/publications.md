@@ -19,7 +19,7 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; IEEE Trans. & Journals = 4, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1**</span> <br/> &emsp; <span style="color:grey; font-size:0.95em;">**JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 28, &nbsp; NeurIPS = 26, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; ICLR = 6, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 29, &nbsp; NeurIPS = 26, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; ICLR = 6, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2, &nbsp; CDC = 1**</span>
 
 ## **2024**
@@ -33,6 +33,14 @@ author_profile: true
 - <span style="font-size:0.9em;"> Kyuyoung Kim, Jongheon Jeong, Minyong An, Mohammad Ghavamzadeh, Krishnamurthy Dvijotham, Jinwoo Shin, & Kimin Lee. “Confidence-aware Reward Optimization for Fine-tuning Text-to-Image Models”. <em>Proceedings of the Twelfth International Conference on Learning Representations</em> (ICLR-2024), 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr24-ROP.pdf)</span>
 
 - <span style="font-size:0.9em;"> Amin Rakhsha, Mete Kemertas, Mohammad Ghavamzadeh, & Amir-massoud Farahmand, “Maxi- mum Entropy Model Correction in Reinforcement Learning”. <em>Proceedings of the Twelfth International Conference on Learning Representations</em> (ICLR-2024), 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr24-MaxEnt.pdf)</span>
+
+- <span style="font-size:0.9em;"> Marek Petrik, Guy Tennenholtz, & Mohammad Ghavamzadeh. "Bayesian Regret Minimization in Offline Bandits". <em>Proceedings of the Forty-First International Conference on Machine Learning</em> (ICML-2024), pp. 40502-40522, 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml24.pdf)</span>
+
+- <span style="font-size:0.9em;"> Jihwan Jeong, Yinlam Chow, Guy Tennenholtz, Chih-wei Hsu, Aza Tulepbergenov, Mohammad Ghavamzadeh, & Craig Boutilier. "Factual and Tailored Recommendation Endorsements using Language Models and Reinforcement Learning". <em>First Conference on Language Modeling</em> (COLM-2024), 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/colm24.pdf)</span>
+
+- <span style="font-size:0.9em;"> Audrey Huang, Nan Jiang, Marek Petrik, & Mohammad Ghavamzadeh. "Non-adaptive Online Fine-tuning for Offline Reinforcement Learning". <em>First Reinforcement Learning Conference</em> (RLC-2024), 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/rlc24-1.pdf)</span>
+
+- <span style="font-size:0.9em;"> Mohammad Javad Azizi, Thang Nhat Duong, Yasin Abbasi Yadkori, Andras Gyorgy, Claire Vernade, & Mohammad Ghavamzadeh. "Non-Stationary Bandits and Meta-Learning with a Small Set of Optimal Arms". <em>First Reinforcement Learning Conference</em> (RLC-2024), 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/rlc24-2.pdf)</span> 
 
 ## **2023**
 
