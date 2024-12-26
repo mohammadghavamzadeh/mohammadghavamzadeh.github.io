@@ -34,11 +34,17 @@ redirect_from:
 
 ### **RECENT NEWS ...**
 
+### **2025**
+
+- <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at ICML-2025.</span>
+
+- <span style="font-size:0.9em;">I served as an <em>area chair</em> at ICLR-2025.</span>
+
 ### **2024**
 
-- <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at ICML-2025 and as an <em>area chair</em> at ICLR-2025.</span>
+- <span style="font-size:0.9em;">I was the Science Tech Lead of RLHF for <em>Amazon Nova Foundation Models</em> released in December 2024.</span>
 
-- <span style="font-size:0.9em;">A journal paper on <em>“Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors”</em> published at ACM Transactions on Recommender Systems.</span>
+- <span style="font-size:0.9em;">Two journal papers published: <em>“A Review of Deep Learning for Video Captioning”</em> at IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) and <em>“Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors”</em> at ACM Transactions on Recommender Systems.</span>
 
 - <span style="font-size:0.9em;">Six conference papers published: <em>"Bayesian Regret Minimization in Offline Bandits”</em> at ICML-2024, <em>“Confidence-aware Reward Optimization for Fine-tuning Text-to-Image Models”</em> and <em>“Maximum Entropy Model Correction in Reinforcement Learning”</em> at ICLR-2024, <em>“Non-adaptive Online Finetuning for Offline Reinforcement Learning”</em> and <em>“Non-stationary Bandits and Meta-Learning with a Small Set of Optimal Arms”</em> at RLC-2024, and <em>“Factual and Tailored Recommendation Endorsements using Language Models and Reinforcement Learning”</em> at COLM-2024.</span>
 

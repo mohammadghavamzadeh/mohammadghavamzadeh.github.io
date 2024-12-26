@@ -26,6 +26,8 @@ author_profile: true
 
 ### &emsp; **Journal**
 
+- <span style="font-size:0.9em;">Moloud Abdar, Meenakshi Kollati, Swaraja Kuraparthi, Farhad Pourpanah, Daniel McDuff, Mohammad Ghavamzadeh, Shuicheng Yan, Abduallah Mohamed, Abbas Khosravi, Erik Cambria, Fatih Porikli. “A Review of Deep Learning for Video Captioning”. <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>, 2024 (DOI: 10.1109/TPAMI.2024.3522295)</span>
+
 - <span style="font-size:0.9em;">Christina Gopfert, Alex Haig, Chih-wei Hsu, Yinlam Chow, Ivan Vendrov, Tyler Lu, Deepak Ra- machandran, Hubert Pham, Mohammad Ghavamzadeh, & Craig Boutilier. “Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors”. <em>ACM Transactions on Recommender Systems</em>, 2024 (DOI: 10.1145/3658675)</span>
 
 ### &emsp; **Conference** 
