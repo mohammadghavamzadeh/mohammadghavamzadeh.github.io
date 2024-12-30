@@ -44,7 +44,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I was the Science Tech Lead of RLHF for <em>Amazon Nova Foundation Models</em> that were released in December 2024.</span>
 
-- <span style="font-size:0.9em;">Our algorithm [<em>"mirror descent policy optimization (MDPO)"</em>](https://arxiv.org/pdf/2005.09814), published at ICLR-2022, was used as the main RLHF algorithm for <em>[Apple Intelligence Foundation Language Models]</em>(https://arxiv.org/pdf/2407.21075).</span>
+- <span style="font-size:0.9em;">Our algorithm [<em>Mirror Descent Policy Optimization (MDPO)</em>](https://arxiv.org/pdf/2005.09814), published at ICLR-2022, was used as the main RLHF algorithm for [<em>Apple Intelligence Foundation Language Models</em>](https://arxiv.org/pdf/2407.21075).</span>
 
 - <span style="font-size:0.9em;">Two journal papers published: <em>“A Review of Deep Learning for Video Captioning”</em> at IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) and <em>“Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors”</em> at ACM Transactions on Recommender Systems.</span>
 
