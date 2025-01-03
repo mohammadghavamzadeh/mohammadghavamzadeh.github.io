@@ -29,7 +29,7 @@ redirect_from:
 
 <br/> **RESEARCH INTERESTS** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **EMAIL** <br/>
 &emsp; <span style="color:grey; font-size:0.85em;">AI, ML, Control, Reinforcement Learning,</span>  &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.85em;">ghavamza <span style="color:red">***at***</span> amazon <span style="color:red">***dot***</span> com</span> <br/>
-&emsp; <span style="color:grey; font-size:0.85em;">RLHF, Bandit Algoriths, Online Learning,</span>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <span style="color:grey; font-size:0.85em;">mohammad <span style="color:red">***dot***</span> ghavamzadeh51 <span style="color:red">***at***</span> gmail <span style="color:red">***dot***</span> com</span> <br/>
+&emsp; <span style="color:grey; font-size:0.85em;">RLHF, Bandit Algoriths, Online Learning,</span>  &emsp;&emsp;&emsp;&emsp;&emsp; <span style="color:grey; font-size:0.85em;">mohammad <span style="color:red">***dot***</span> ghavamzadeh51 <span style="color:red">***at***</span> gmail <span style="color:red">***dot***</span> com</span> <br/>
 &emsp; <span style="color:grey; font-size:0.85em;">Personalization & Recommendation Systems</span> 
 
 ### **RECENT NEWS ...**
