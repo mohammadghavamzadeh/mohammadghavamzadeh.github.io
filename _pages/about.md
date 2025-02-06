@@ -40,6 +40,8 @@ redirect_from:
 
 - <span style="font-size:0.9em;">A paper on <em>"Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis"</em> got accepted at AISTATS-2025.</span>
 
+- <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at RLC-2025.</span>
+
 - <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at ICML-2025.</span>
 
 - <span style="font-size:0.9em;">I served as an <em>area chair</em> at ICLR-2025.</span>
