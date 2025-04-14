@@ -40,7 +40,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">A paper on <em>"Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis"</em> got accepted at AISTATS-2025.</span>
 
-- <span style="font-size:0.9em;">I will serve as an <em>action editor</em> for Foundations and Trends in Machine Learning (FnT ML).</span>
+- <span style="font-size:0.9em;">I joined the editorial board of Foundations and Trends in Machine Learning (FnT ML).</span>
 
 - <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at NeurIPS-2025.</span>
 
