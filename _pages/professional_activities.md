@@ -42,6 +42,8 @@ author_profile: true
 
 <br/> **Editorial Board Member**
 
+&emsp;&nbsp; <span style="font-size:0.925em;">Action Editor: Foundations and Trends in Machine Learning (FnT ML, 2025-present)</span> <br/>
+&emsp;&nbsp; <span style="font-size:0.925em;">Action Editor: Transactions on Machine Learning Research (TMLR, 2021-present)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">Machine Learning Journal – Special Issue on Safe and Fair Machine Learning (2021-2023)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">Machine Learning Journal (2011-2020)</span>
 
@@ -53,7 +55,7 @@ author_profile: true
 
 &emsp;&nbsp; <span style="font-size:0.925em;">AAAI Conference on Artificial Intelligence (AAAI 2023, 2024)</span> <br/>
 &emsp;&nbsp; <span style="font-size:0.925em;">International Conference on Machine Learning (ICML 2023-2025)</span> <br/>
-&emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NeurIPS 2020-2022)</span> 
+&emsp;&nbsp; <span style="font-size:0.925em;">Annual Conference on Neural Information Processing Systems (NeurIPS 2020-2022, 2025)</span> 
 
 <br/> **Area Chair & Senior Program Committee Member**
 
