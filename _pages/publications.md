@@ -22,19 +22,32 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**ICML = 29, &nbsp; NeurIPS = 26, &nbsp; AISTATS = 12, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; ICLR = 6, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2, &nbsp; CDC = 1**</span>
 
+## **2025**
+
+### &emsp; **Conference** 
+
+- <span style="font-size:0.9em;"> Rohan Deb, Mohammad Ghavamzadeh, & Arindam Banerjee. “Conservative Contextual Bandits: Beyond Linear Representations”. <em>Proceedings of the Thirteenth International Conference on Learning Representations</em> (ICLR-2025), 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr25.pdf)</span>
+
+- <span style="font-size:0.9em;">Jia Lin Hau, Erick Delage, Esther Derman, Mohammad Ghavamzadeh, & Marek Petrik. “Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis”. <em>Proceedings of the Twenty-Eighth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2025), 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats25-ROP.pdf)</span>
+
+- <span style="font-size:0.9em;"> Rohan Deb, Mohammad Ghavamzadeh, & Arindam Banerjee. “Thompson Sampling for Constrained Bandits”. <em>Proceedings of the Second Reinforcement Learning Conference</em> (RLC-2025), 2025.
+
+- <span style="font-size:0.9em;"> Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, & Mohammad Ghavamzadeh. “Bridging Distributionally Robust Learning and Offline RL: An Approach to Mitigate Distribution Shift and Partial Data Coverage”. <em>Proceedings of the Seventh Annual Learning for Dynamics & Control Conference</em> (L4DC-2025), 2025.
+
+
 ## **2024**
 
 ### &emsp; **Journal**
 
-- <span style="font-size:0.9em;">Moloud Abdar, Meenakshi Kollati, Swaraja Kuraparthi, Farhad Pourpanah, Daniel McDuff, Mohammad Ghavamzadeh, Shuicheng Yan, Abduallah Mohamed, Abbas Khosravi, Erik Cambria, Fatih Porikli. “A Review of Deep Learning for Video Captioning”. <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>, 2024 (DOI: 10.1109/TPAMI.2024.3522295)</span>
+- <span style="font-size:0.9em;">Moloud Abdar, Meenakshi Kollati, Swaraja Kuraparthi, Farhad Pourpanah, Daniel McDuff, Mohammad Ghavamzadeh, Shuicheng Yan, Abduallah Mohamed, Abbas Khosravi, Erik Cambria, & Fatih Porikli. “A Review of Deep Learning for Video Captioning”. <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>, 2024 (DOI: 10.1109/TPAMI.2024.3522295)</span>
 
-- <span style="font-size:0.9em;">Christina Gopfert, Alex Haig, Chih-wei Hsu, Yinlam Chow, Ivan Vendrov, Tyler Lu, Deepak Ra- machandran, Hubert Pham, Mohammad Ghavamzadeh, & Craig Boutilier. “Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors”. <em>ACM Transactions on Recommender Systems</em>, 2024 (DOI: 10.1145/3658675)</span>
+- <span style="font-size:0.9em;">Christina Gopfert, Alex Haig, Chih-wei Hsu, Yinlam Chow, Ivan Vendrov, Tyler Lu, Deepak Ramachandran, Hubert Pham, Mohammad Ghavamzadeh, & Craig Boutilier. “Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors”. <em>ACM Transactions on Recommender Systems</em>, 2024 (DOI: 10.1145/3658675)</span>
 
 ### &emsp; **Conference** 
 
 - <span style="font-size:0.9em;"> Kyuyoung Kim, Jongheon Jeong, Minyong An, Mohammad Ghavamzadeh, Krishnamurthy Dvijotham, Jinwoo Shin, & Kimin Lee. “Confidence-aware Reward Optimization for Fine-tuning Text-to-Image Models”. <em>Proceedings of the Twelfth International Conference on Learning Representations</em> (ICLR-2024), 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr24-ROP.pdf)</span>
 
-- <span style="font-size:0.9em;"> Amin Rakhsha, Mete Kemertas, Mohammad Ghavamzadeh, & Amir-massoud Farahmand, “Maxi- mum Entropy Model Correction in Reinforcement Learning”. <em>Proceedings of the Twelfth International Conference on Learning Representations</em> (ICLR-2024), 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr24-MaxEnt.pdf)</span>
+- <span style="font-size:0.9em;"> Amin Rakhsha, Mete Kemertas, Mohammad Ghavamzadeh, & Amir-massoud Farahmand. “Maxi- mum Entropy Model Correction in Reinforcement Learning”. <em>Proceedings of the Twelfth International Conference on Learning Representations</em> (ICLR-2024), 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr24-MaxEnt.pdf)</span>
 
 - <span style="font-size:0.9em;"> Marek Petrik, Guy Tennenholtz, & Mohammad Ghavamzadeh. "Bayesian Regret Minimization in Offline Bandits". <em>Proceedings of the Forty-First International Conference on Machine Learning</em> (ICML-2024), pp. 40502-40522, 2024. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/icml24.pdf)</span>
 

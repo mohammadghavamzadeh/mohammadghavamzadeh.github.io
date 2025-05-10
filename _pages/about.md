@@ -36,6 +36,10 @@ redirect_from:
 
 ### **2025**
 
+- <span style="font-size:0.9em;">A paper on <em>"Thompson Sampling for Constrained Bandits"</em> got accepted at RLC-2025.</span>
+
+- <span style="font-size:0.9em;">A paper on <em>"Bridging Distributionally Robust Learning and Offline RL: An Approach to Mitigate Distribution Shift and Partial Data Coverage"</em> got accepted at L4DC-2025.</span>
+
 - <span style="font-size:0.9em;">A paper on <em>"Conservative Contextual Bandits: Beyond Linear Representations"</em> got accepted at ICLR-2025.</span>
 
 - <span style="font-size:0.9em;">A paper on <em>"Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis"</em> got accepted at AISTATS-2025.</span>
