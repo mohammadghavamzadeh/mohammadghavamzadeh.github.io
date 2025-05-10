@@ -28,7 +28,7 @@ author_profile: true
 
 - <span style="font-size:0.9em;"> Rohan Deb, Mohammad Ghavamzadeh, & Arindam Banerjee. “Conservative Contextual Bandits: Beyond Linear Representations”. <em>Proceedings of the Thirteenth International Conference on Learning Representations</em> (ICLR-2025), 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr25.pdf)</span>
 
-- <span style="font-size:0.9em;">Jia Lin Hau, Erick Delage, Esther Derman, Mohammad Ghavamzadeh, & Marek Petrik. “Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis”. <em>Proceedings of the Twenty-Eighth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2025), 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats25-ROP.pdf)</span>
+- <span style="font-size:0.9em;">Jia Lin Hau, Erick Delage, Esther Derman, Mohammad Ghavamzadeh, & Marek Petrik. “Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis”. <em>Proceedings of the Twenty-Eighth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2025), 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats25.pdf)</span>
 
 - <span style="font-size:0.9em;"> Rohan Deb, Mohammad Ghavamzadeh, & Arindam Banerjee. “Thompson Sampling for Constrained Bandits”. <em>Proceedings of the Second Reinforcement Learning Conference</em> (RLC-2025), 2025.
 
