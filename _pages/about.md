@@ -36,6 +36,8 @@ redirect_from:
 
 ### **2025**
 
+- <span style="font-size:0.9em;">A paper on <em>"Contextual Bandits with Stage-wise Constraints"</em> got accepted at Journal of Machine Learning Research (JMLR).</span>
+
 - <span style="font-size:0.9em;">A paper on <em>"Thompson Sampling for Constrained Bandits"</em> got accepted at RLC-2025.</span>
 
 - <span style="font-size:0.9em;">A paper on <em>"Bridging Distributionally Robust Learning and Offline RL: An Approach to Mitigate Distribution Shift and Partial Data Coverage"</em> got accepted at L4DC-2025.</span>
