@@ -16,13 +16,17 @@ author_profile: true
 {% endfor %}
 
 ### **JOURNALS**
-&emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 7, &nbsp; IEEE Trans. & Journals = 5, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1**</span> <br/> &emsp; <span style="color:grey; font-size:0.95em;">**JAAMAS = 1**</span>
+&emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 8, &nbsp; IEEE Trans. & Journals = 5, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1**</span> <br/> &emsp; <span style="color:grey; font-size:0.95em;">**JAAMAS = 1**</span>
 
 ### **CONFERENCES**
 &emsp; <span style="color:grey; font-size:0.95em;">**ICML = 29, &nbsp; NeurIPS = 26, &nbsp; AISTATS = 13, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; ICLR = 7, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2, &nbsp; CDC = 1**</span>
 
 ## **2025**
+
+### &emsp; **Journal**
+
+- <span style="font-size:0.9em;">Aldo Pacchiano, Mohammad Ghavamzadeh, & Peter Bartlett. “Contextual Bandits with Stage-wise Constraints”. <em>Journal of Machine Learning Research (JMLR)</em>, 2025 </span>
 
 ### &emsp; **Conference** 
 
