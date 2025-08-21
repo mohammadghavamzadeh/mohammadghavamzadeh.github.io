@@ -26,7 +26,7 @@ author_profile: true
 
 ### &emsp; **Journal**
 
-- <span style="font-size:0.9em;">Aldo Pacchiano, Mohammad Ghavamzadeh, & Peter Bartlett. “Contextual Bandits with Stage-wise Constraints”. <em>Journal of Machine Learning Research (JMLR)</em>, 2025 </span>
+- <span style="font-size:0.9em;">Aldo Pacchiano, Mohammad Ghavamzadeh, & Peter Bartlett. “Contextual Bandits with Stage-wise Constraints”. <em>Journal of Machine Learning Research (JMLR)</em>, 2025 &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/jmlr-Const-Bandit.pdf)</span>
 
 ### &emsp; **Conference** 
 
