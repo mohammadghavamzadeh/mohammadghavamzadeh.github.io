@@ -36,6 +36,10 @@ redirect_from:
 
 ### **2025**
 
+- <span style="font-size:0.9em;">A paper on <em>"Does Thinking More always Help? Understanding Test-Time Scaling in Reasoning Models"</em> got accepted at NeurIPS-2025.</span>
+
+- <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at ICLR-2026.</span>
+
 - <span style="font-size:0.9em;">A paper on <em>"Contextual Bandits with Stage-wise Constraints"</em> got accepted at Journal of Machine Learning Research (JMLR).</span>
 
 - <span style="font-size:0.9em;">A paper on <em>"Thompson Sampling for Constrained Bandits"</em> got accepted at RLC-2025.</span>
@@ -48,13 +52,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">I joined the editorial board of Foundations and Trends in Machine Learning (FnT ML).</span>
 
-- <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at NeurIPS-2025.</span>
-
-- <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at RLC-2025.</span>
-
-- <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at ICML-2025.</span>
-
-- <span style="font-size:0.9em;">I served as an <em>area chair</em> at ICLR-2025.</span>
+- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> at NeurIPS-2025 and ICML-2025, and as an <em>area chair</em> at ICLR-2025 and RLC-2025.</span>
 
 ### **2024**
 
