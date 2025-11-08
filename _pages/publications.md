@@ -19,8 +19,14 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 8, &nbsp; IEEE Trans. & Journals = 5, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1**</span> <br/> &emsp; <span style="color:grey; font-size:0.95em;">**JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 29, &nbsp; NeurIPS = 26, &nbsp; AISTATS = 13, &nbsp; IJCAI = 6, &nbsp; AAAI = 5, &nbsp; ICLR = 7, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 29, &nbsp; NeurIPS = 27, &nbsp; AISTATS = 13, &nbsp; IJCAI = 6, &nbsp; AAAI = 6, &nbsp; ICLR = 7, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2, &nbsp; CDC = 1**</span>
+
+## **2026**
+
+### &emsp; **Conference** 
+
+- <span style="font-size:0.9em;"> Zhuotong Chen, Fang Liu, Jennifer Zhu, Jiayu Li, Yanjun Qi, Haozhu Wang, & Mohammad Ghavamzadeh. “Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator”. <em>Proceedings of the Fortieth Conference on Artificial Intelligence</em> (AAAI-2026), 2026.</span>
 
 ## **2025**
 
@@ -30,14 +36,16 @@ author_profile: true
 
 ### &emsp; **Conference** 
 
+- <span style="font-size:0.9em;"> Soumya Ghosal, Souradip Chakraborty, Avinash Reddy, Yifu Li, Mengdi Wang, Dinesh Manocha, Furong Huang, Mohammad Ghavamzadeh, & Amrit Singh Bedi. “Does Thinking More Always Help? Mirage of Test-Time Scaling in Reasoning Models”. <em>Proceedings of the Thirty-Ninth Annual Conference
+on Advances in Neural Information Processing Systems</em> (NeurIPS-2025), 2025.</span>
+
 - <span style="font-size:0.9em;"> Rohan Deb, Mohammad Ghavamzadeh, & Arindam Banerjee. “Conservative Contextual Bandits: Beyond Linear Representations”. <em>Proceedings of the Thirteenth International Conference on Learning Representations</em> (ICLR-2025), 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr25.pdf)</span>
 
 - <span style="font-size:0.9em;">Jia Lin Hau, Erick Delage, Esther Derman, Mohammad Ghavamzadeh, & Marek Petrik. “Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis”. <em>Proceedings of the Twenty-Eighth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2025), 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats25.pdf)</span>
 
-- <span style="font-size:0.9em;"> Rohan Deb, Mohammad Ghavamzadeh, & Arindam Banerjee. “Thompson Sampling for Constrained Bandits”. <em>Proceedings of the Second Reinforcement Learning Conference</em> (RLC-2025), 2025.
+- <span style="font-size:0.9em;"> Rohan Deb, Mohammad Ghavamzadeh, & Arindam Banerjee. “Thompson Sampling for Constrained Bandits”. <em>Proceedings of the Second Reinforcement Learning Conference</em> (RLC-2025), 2025.</span>
 
-- <span style="font-size:0.9em;"> Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, & Mohammad Ghavamzadeh. “Bridging Distributionally Robust Learning and Offline RL: An Approach to Mitigate Distribution Shift and Partial Data Coverage”. <em>Proceedings of the Seventh Annual Learning for Dynamics & Control Conference</em> (L4DC-2025), 2025.
-
+- <span style="font-size:0.9em;"> Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, & Mohammad Ghavamzadeh. “Bridging Distributionally Robust Learning and Offline RL: An Approach to Mitigate Distribution Shift and Partial Data Coverage”. <em>Proceedings of the Seventh Annual Learning for Dynamics & Control Conference</em> (L4DC-2025), 2025.</span>
 
 ## **2024**
 

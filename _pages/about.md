@@ -36,6 +36,10 @@ redirect_from:
 
 ### **2025**
 
+- <span style="font-size:0.9em;">A paper on <em>"Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator"</em> got accepted at the Alignment Track at AAAI-2026.</span>
+
+- <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at ICML-2026.</span>
+
 - <span style="font-size:0.9em;">A paper on <em>"Does Thinking More always Help? Understanding Test-Time Scaling in Reasoning Models"</em> got accepted at NeurIPS-2025.</span>
 
 - <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at ICLR-2026.</span>
