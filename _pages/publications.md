@@ -26,7 +26,7 @@ author_profile: true
 
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;"> Zhuotong Chen, Fang Liu, Jennifer Zhu, Jiayu Li, Yanjun Qi, Haozhu Wang, & Mohammad Ghavamzadeh. “Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator”. <em>Proceedings of the Fortieth Conference on Artificial Intelligence</em> (AAAI-2026), 2026.</span>
+- <span style="font-size:0.9em;"> Zhuotong Chen, Fang Liu, Jennifer Zhu, Jiayu Li, Yanjun Qi, Haozhu Wang, & Mohammad Ghavamzadeh. “Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator”. <span style="color:red">***Accepted for Oral Presentation.***</span><em>Proceedings of the Fortieth Conference on Artificial Intelligence</em> (AAAI-2026), 2026.</span>
 
 ## **2025**
 
@@ -89,7 +89,7 @@ on Advances in Neural Information Processing Systems</em> (NeurIPS-2025), 2025. 
 
 - <span style="font-size:0.9em;">Jia Lin Hau, Marek Petrik, & Mohammad Ghavamzadeh. “Entropic Risk Optimization in Discounted MDPs”. <em>Proceedings of the Twenty-Sixth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats23-risk.pdf)</span>
 
-- <span style="font-size:0.9em;">Chris Dunn, Mohammad Ghavamzadeh, & Teodor Marinov. “Multiple-policy High-confidence Policy Evaluation”. <em>Proceedings of the Twenty-Sixth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats23-explore.pdf)</span>
+- <span style="font-size:0.9em;">Christoph Dann, Mohammad Ghavamzadeh, & Teodor Marinov. “Multiple-policy High-confidence Policy Evaluation”. <em>Proceedings of the Twenty-Sixth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats23-explore.pdf)</span>
 
 - <span style="font-size:0.9em;">Javad Azizi, Branislav Kveton, Mohammad Ghavamzadeh, & Sumeet Katariya. “Meta-Learning for Simple Regret Minimization”. <em>Proceedings of the Thirty-Seventh Conference on Artificial Intelligence</em> (AAAI-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aaai23.pdf)</span>
 
