@@ -26,7 +26,7 @@ author_profile: true
 
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;"> Zhuotong Chen, Fang Liu, Jennifer Zhu, Jiayu Li, Yanjun Qi, Haozhu Wang, & Mohammad Ghavamzadeh. “Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator”. <span style="color:red">***Accepted for Oral Presentation.***</span><em>Proceedings of the Fortieth Conference on Artificial Intelligence</em> (AAAI-2026), 2026.</span>
+- <span style="font-size:0.9em;"> Zhuotong Chen, Fang Liu, Jennifer Zhu, Jiayu Li, Yanjun Qi, Haozhu Wang, & Mohammad Ghavamzadeh. “Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator”. <span style="color:red">***Accepted for Oral Presentation.***</span> <em>Proceedings of the Fortieth Conference on Artificial Intelligence</em> (AAAI-2026), 2026.</span>
 
 ## **2025**
 
@@ -73,7 +73,7 @@ on Advances in Neural Information Processing Systems</em> (NeurIPS-2025), 2025. 
 
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;"> Jincheng Mei, Bo Dai, Alekh Agarwal, Mohammad Ghavamzadeh, Csaba Szepevari, & Dale Schuurmans. “Ordering-based Conditions for Global Convergence of Policy Gradient Methods”. <span style="color:red">***Accepted for Oral Presentation (%0.54 acceptance - 67 out of 12345 submissions).***</span><em>Proceedings of the Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-PG.pdf)</span>
+- <span style="font-size:0.9em;"> Jincheng Mei, Bo Dai, Alekh Agarwal, Mohammad Ghavamzadeh, Csaba Szepevari, & Dale Schuurmans. “Ordering-based Conditions for Global Convergence of Policy Gradient Methods”. <span style="color:red">***Accepted for Oral Presentation (%0.54 acceptance - 67 out of 12345 submissions).***</span> <em>Proceedings of the Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-PG.pdf)</span>
 
 - <span style="font-size:0.9em;"> Ying Fan, Olivia Watkins, Yuqing Du, Hao Liu, Moonkyung Ryu, Craig Boutilier, Pieter Abbeel, Mohammad Ghavamzadeh, Kangwook Lee, & Kimin Lee. “DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models”. <em>Proceedings of the Thirty-Seventh Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2023), 2023. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-DPOK.pdf)</span>
 
