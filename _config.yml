@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mohammad Ghavamzadeh"
   avatar           : "homepage_pic.jpeg"
-  bio              : "Senior Principal Scientist at Amazon AGI"
+  bio              : "Senior Director of Technology at Qualcomm AI Research"
   location         : "Sunnyvale, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=LHIPpCsAAAAJ&hl=en"
-  email            : #"mailto:ghavamza@amazon.com"
+  email            : #"mailto:ghavamza@qti.qualcomm.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

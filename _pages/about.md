@@ -10,11 +10,11 @@ redirect_from:
 
 <br/> **PROFESSIONAL EXPERIENCE** <br/>
 
-&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Principal Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Staff Research Scientist**</span> <br/>
-&nbsp;&nbsp; <span style="font-size:0.85em;">Amazon AGI (2023 - present)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Google Research  (2020 - 2023)</span>
+&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Director of Technology**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Principal Scientist**</span> <br/>
+&nbsp;&nbsp; <span style="font-size:0.85em;">Qualcomm AI Research (2025 - present)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Amazon AGI (2023 - 2025)</span>
 
-&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <span style="color:grey; font-size:0.875em;">**Staff Research Scientist**</span> <br/>
-&nbsp;&nbsp; <span style="font-size:0.85em;">Facebook AI Research  (2018 - 2020)</span> &emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="font-size:0.85em;">DeepMind  (2017 - 2018)</span>
+&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Staff Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <span style="color:grey; font-size:0.875em;">**Senior Research Scientist**</span> <br/>
+&nbsp;&nbsp; <span style="font-size:0.85em;">Google Research  (2020 - 2023)</span> &emsp;&emsp;&emsp;&nbsp;&nbsp; <span style="font-size:0.85em;">Facebook AI Research  (2017 - 2020)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Analytics Researcher**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Chargé de recherche**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.85em;">Adobe Research  (2013 - 2017)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">INRIA Lille - Team SequeL  (2008 - 2013)</span>
@@ -28,7 +28,7 @@ redirect_from:
 &nbsp;&nbsp; <span style="font-size:0.875em;">University of Massachusetts Amherst, USA  (2001 - 2005)</span>
 
 <br/> **RESEARCH INTERESTS** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **EMAIL** <br/>
-&emsp; <span style="color:grey; font-size:0.85em;">AI, ML, Control, Reinforcement Learning,</span>  &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.85em;">ghavamza <span style="color:red">***at***</span> amazon <span style="color:red">***dot***</span> com</span> <br/>
+&emsp; <span style="color:grey; font-size:0.85em;">AI, ML, Control, Reinforcement Learning,</span>  &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; <span style="color:grey; font-size:0.85em;">ghavamza <span style="color:red">***at***</span> qti <span style="color:red">***dot***</span> qualcomm <span style="color:red">***dot***</span> com</span> <br/>
 &emsp; <span style="color:grey; font-size:0.85em;">RLHF, Bandit Algoriths, Online Learning,</span>  &emsp;&emsp;&emsp;&emsp;&emsp; <span style="color:grey; font-size:0.85em;">mohammad <span style="color:red">***dot***</span> ghavamzadeh51 <span style="color:red">***at***</span> gmail <span style="color:red">***dot***</span> com</span> <br/>
 &emsp; <span style="color:grey; font-size:0.85em;">Personalization & Recommendation Systems</span> 
 
