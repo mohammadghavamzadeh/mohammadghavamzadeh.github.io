@@ -10,7 +10,7 @@ redirect_from:
 
 <br/> **PROFESSIONAL EXPERIENCE** <br/>
 
-&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Director of Technology**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Principal Scientist**</span> <br/>
+&nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Director of Technology**</span> &emsp;&emsp;&emsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Senior Principal Scientist**</span> <br/>
 &nbsp;&nbsp; <span style="font-size:0.85em;">Qualcomm AI Research (2025 - present)</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <span style="font-size:0.85em;">Amazon AGI (2023 - 2025)</span>
 
 &nbsp;&nbsp; <span style="color:grey; font-size:0.875em;">**Staff Research Scientist**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <span style="color:grey; font-size:0.875em;">**Senior Research Scientist**</span> <br/>
