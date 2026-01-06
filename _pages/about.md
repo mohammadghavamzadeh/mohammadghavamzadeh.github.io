@@ -34,25 +34,19 @@ redirect_from:
 
 ### **RECENT NEWS ...**
 
-### **2025**
+### **2026**
 
 - <span style="font-size:0.9em;">A paper on <em>"Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator"</em> <span style="color:red">***got accepted for an oral presentation***</span> at AAAI-2026.</span>
 
 - <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at ICML-2026.</span>
 
-- <span style="font-size:0.9em;">A paper on <em>"Does Thinking More always Help? Understanding Test-Time Scaling in Reasoning Models"</em> got accepted at NeurIPS-2025.</span>
+- <span style="font-size:0.9em;">I served as an <em>area chair</em> at ICLR-2026.</span>
 
-- <span style="font-size:0.9em;">I will serve as an <em>area chair</em> at ICLR-2026.</span>
+### **2025**
 
-- <span style="font-size:0.9em;">A paper on <em>"Contextual Bandits with Stage-wise Constraints"</em> got accepted at Journal of Machine Learning Research (JMLR).</span>
+- <span style="font-size:0.9em;">A journal paper on <em>“Contextual Bandits with Stage-wise Constraints”</em> published at the Journal of Machine Learning Research (JMLR).</span>
 
-- <span style="font-size:0.9em;">A paper on <em>"Thompson Sampling for Constrained Bandits"</em> got accepted at RLC-2025.</span>
-
-- <span style="font-size:0.9em;">A paper on <em>"Bridging Distributionally Robust Learning and Offline RL: An Approach to Mitigate Distribution Shift and Partial Data Coverage"</em> got accepted at L4DC-2025.</span>
-
-- <span style="font-size:0.9em;">A paper on <em>"Conservative Contextual Bandits: Beyond Linear Representations"</em> got accepted at ICLR-2025.</span>
-
-- <span style="font-size:0.9em;">A paper on <em>"Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis"</em> got accepted at AISTATS-2025.</span>
+- <span style="font-size:0.9em;"> Five conference papers published: <em>"Does Thinking More always Help? Understanding Test-Time Scaling in Reasoning Models"</em> at NeurIPS-2025, <em>"Conservative Contextual Bandits: Beyond Linear Representations"</em> at ICLR-2025, <em>"Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis"</em> at AISTATS-2025, <em>"Thompson Sampling for Constrained Bandits"</em> at RLC-2025, and <em>"Bridging Distributionally Robust Learning and Offline RL: An Approach to Mitigate Distribution Shift and Partial Data Coverage"</em> at L4DC-2025.</span>
 
 - <span style="font-size:0.9em;">I joined the editorial board of Foundations and Trends in Machine Learning (FnT ML).</span>
 
