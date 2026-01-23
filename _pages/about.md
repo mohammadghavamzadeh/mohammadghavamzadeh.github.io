@@ -36,6 +36,8 @@ redirect_from:
 
 ### **2026**
 
+- <span style="font-size:0.9em;">A paper on <em>"DISPO: Enhancing Training Efficiency and Stability in Reinforcement Learning for Large Language Model Mathematical Reasoning"</em> got accepted at AISTATS-2026.</span>
+
 - <span style="font-size:0.9em;">A paper on <em>"Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator"</em> <span style="color:red">***got accepted for an oral presentation***</span> at AAAI-2026.</span>
 
 - <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at ICML-2026.</span>
