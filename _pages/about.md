@@ -36,6 +36,10 @@ redirect_from:
 
 ### **2026**
 
+- <span style="font-size:0.9em;">Three papers on <em>"Diffusion Blend: Inference-Time Multi-Preference Alignment for Diffusion Models"</em>, <em>"Beyond Binary Preferences: A Principled Framework for Reward Modeling with Ordinal Feedback"</em>, and <em>"Displacement-Resistant Extensions of DPO with Nonconvex f-Divergences"</em> got accepted at ICLR-2026.</span>
+
+- <span style="font-size:0.9em;">A paper on <em>"C2-DPO: Constrained Controlled Direct Preference Optimization"</em> got accepted at TMLR.</span>
+
 - <span style="font-size:0.9em;">A paper on <em>"DISPO: Enhancing Training Efficiency and Stability in Reinforcement Learning for Large Language Model Mathematical Reasoning"</em> got accepted at AISTATS-2026.</span>
 
 - <span style="font-size:0.9em;">A paper on <em>"Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator"</em> <span style="color:red">***got accepted for an oral presentation***</span> at AAAI-2026.</span>
