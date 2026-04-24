@@ -19,25 +19,37 @@ author_profile: true
 &emsp; <span style="color:grey; font-size:0.95em;">**JMLR = 8, &nbsp; IEEE Trans. & Journals = 5, &nbsp; MLJ = 1, &nbsp; JAIR = 1, &nbsp; Automatica = 1, &nbsp; Foundation & Trends = 1**</span> <br/> &emsp; <span style="color:grey; font-size:0.95em;">**JAAMAS = 1**</span>
 
 ### **CONFERENCES**
-&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 29, &nbsp; NeurIPS = 27, &nbsp; AISTATS = 13, &nbsp; IJCAI = 6, &nbsp; AAAI = 6, &nbsp; ICLR = 7, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
+&emsp; <span style="color:grey; font-size:0.95em;">**ICML = 29, &nbsp; NeurIPS = 27, &nbsp; AISTATS = 14, &nbsp; IJCAI = 6, &nbsp; AAAI = 6, &nbsp; ICLR = 10, &nbsp; UAI = 3, &nbsp; AAMAS = 3**</span> <br/>
 &emsp; <span style="color:grey; font-size:0.95em;">**ALT = 1, &nbsp; ACC = 2, &nbsp; CDC = 1**</span>
 
 ## **2026**
 
+### &emsp; **Journal**
+
+- <span style="font-size:0.9em;">Kavosh Asadi, Xingzi Xu, Julien Han, Ege Beyazit, Idan Pipano, Dominique Perrault-Joncas, Shoham Sabach, Mohammad Ghavamzadeh, & Karim Bouyarmane. “C2-DPO: Constrained Controlled Direct Preference Optimization”. <em>Transactions on Machine Learning Research (TMLR)</em>, 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/tmlr-C2-DPO.pdf)</span>
+
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;"> Zhuotong Chen, Fang Liu, Jennifer Zhu, Jiayu Li, Yanjun Qi, Haozhu Wang, & Mohammad Ghavamzadeh. “Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator”. <span style="color:red">***Accepted for Oral Presentation.***</span> <em>Proceedings of the Fortieth Conference on Artificial Intelligence</em> (AAAI-2026), 2026.</span>
+- <span style="font-size:0.9em;"> Min Cheng, Fatemeh Doudi, Dileep Kalathil, Mohammad Ghavamzadeh, & Panganamala Kumar. “Diffusion
+Blend: Inference-Time Multi-Preference Alignment for Diffusion Models”. <em>Proceedings of the Thirty-First International Conference on Learning Representations</em> (ICLR-2026), 2026. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr26-diff-blend.pdf)</span>
+
+- <span style="font-size:0.9em;"> Amirhossein Afsharrad, Ruida Zhou, Luca Viano, Sanjay Lall, & Mohammad Ghavamzadeh. “Beyond Binary Preferences: A Principled Framework for Reward Modeling with Ordinal Feedback”. <em>Proceedings of the Thirty-First International Conference on Learning Representations</em> (ICLR-2026), 2026. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr26-likert.pdf)</span>
+
+- <span style="font-size:0.9em;"> Idan Pipano, Shoham Sabach, Kavosh Asadi, & Mohammad Ghavamzadeh. “Displacement-Resistant Extensions of DPO with Nonconvex f-Divergences”. <em>Proceedings of the Thirty-First International Conference on Learning Representations</em> (ICLR-2026), 2026. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr26-squaredpo.pdf)</span>
+
+- <span style="font-size:0.9em;"> Batuhan Karaman, Aditya Rawal, Suhaila Shakiah, Mohammad Ghavamzadeh, Arijit Biswas, & Ruida Zhou. “DISPO: Enhancing Training Efficiency and Stability in Reinforcement Learning for Large Language Model Mathematical Reasoning”. <em>Proceedings of the Twenty-Ninth International Conference on Artificial Intelligence and Statistics</em> (AISTATS-2026), 2026. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aistats26.pdf)</span>
+
+- <span style="font-size:0.9em;"> Zhuotong Chen, Fang Liu, Jennifer Zhu, Jiayu Li, Yanjun Qi, Haozhu Wang, & Mohammad Ghavamzadeh. “Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator”. <span style="color:red">***Accepted for Oral Presentation.***</span> <em>Proceedings of the Fortieth Conference on Artificial Intelligence</em> (AAAI-2026), 2026. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aaai26.pdf)</span>
 
 ## **2025**
 
 ### &emsp; **Journal**
 
-- <span style="font-size:0.9em;">Aldo Pacchiano, Mohammad Ghavamzadeh, & Peter Bartlett. “Contextual Bandits with Stage-wise Constraints”. <em>Journal of Machine Learning Research (JMLR)</em>, 2025 &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/jmlr-Const-Bandit.pdf)</span>
+- <span style="font-size:0.9em;">Aldo Pacchiano, Mohammad Ghavamzadeh, & Peter Bartlett. “Contextual Bandits with Stage-wise Constraints”. <em>Journal of Machine Learning Research (JMLR)</em>, 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/jmlr-Const-Bandit.pdf)</span>
 
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;"> Soumya Ghosal, Souradip Chakraborty, Avinash Reddy, Yifu Li, Mengdi Wang, Dinesh Manocha, Furong Huang, Mohammad Ghavamzadeh, & Amrit Singh Bedi. “Does Thinking More Always Help? Mirage of Test-Time Scaling in Reasoning Models”. <em>Proceedings of the Thirty-Ninth Annual Conference
-on Advances in Neural Information Processing Systems</em> (NeurIPS-2025), 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips25.pdf)</span>
+- <span style="font-size:0.9em;"> Soumya Ghosal, Souradip Chakraborty, Avinash Reddy, Yifu Li, Mengdi Wang, Dinesh Manocha, Furong Huang, Mohammad Ghavamzadeh, & Amrit Singh Bedi. “Does Thinking More Always Help? Mirage of Test-Time Scaling in Reasoning Models”. <em>Proceedings of the Thirty-Ninth Annual Conference on Advances in Neural Information Processing Systems</em> (NeurIPS-2025), 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/nips25.pdf)</span>
 
 - <span style="font-size:0.9em;"> Rohan Deb, Mohammad Ghavamzadeh, & Arindam Banerjee. “Conservative Contextual Bandits: Beyond Linear Representations”. <em>Proceedings of the Thirteenth International Conference on Learning Representations</em> (ICLR-2025), 2025. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr25.pdf)</span>
 
