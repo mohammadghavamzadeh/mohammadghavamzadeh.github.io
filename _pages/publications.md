@@ -41,6 +41,10 @@ Blend: Inference-Time Multi-Preference Alignment for Diffusion Models”. <em>Pr
 
 - <span style="font-size:0.9em;"> Zhuotong Chen, Fang Liu, Jennifer Zhu, Jiayu Li, Yanjun Qi, Haozhu Wang, & Mohammad Ghavamzadeh. “Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator”. <span style="color:red">***Accepted for Oral Presentation.***</span> <em>Proceedings of the Fortieth Conference on Artificial Intelligence</em> (AAAI-2026), 2026. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/aaai26.pdf)</span>
 
+### &emsp; **Workshop** 
+
+- <span style="font-size:0.9em;">Yuanxin Liu, Ruida Zhou, Xinyan Zhao, Amr Sharaf, Hongzhou Lin, Arijit Biswas, Mohammad Ghavamzadeh, Zhaoran Wang, & Mingyi Hong. “REVES: REvision and VErification–Augmented Training for Test-Time Scaling”. Workshop on <em>“Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning", Forty-Third International Conference on Machine Learning</em> (ICML-2026), 2026. &nbsp; [pdf](https://arxiv.org/abs/2606.18910)</span>
+
 ## **2025**
 
 ### &emsp; **Journal**
