@@ -48,9 +48,7 @@ redirect_from:
 
 - <span style="font-size:0.9em;">A paper on <em>"Preference Optimization via Contrastive Divergence: Your Policy is Secretly an NLL Estimator"</em> <span style="color:red">***got accepted for an oral presentation***</span> at AAAI-2026.</span>
 
-- <span style="font-size:0.9em;">I will serve as a <em>senior area chair</em> at ICML-2026.</span>
-
-- <span style="font-size:0.9em;">I served as an <em>area chair</em> at ICLR-2026.</span>
+- <span style="font-size:0.9em;">I served as a <em>senior area chair</em> at ICML-2026 and as an <em>area chair</em> at ICLR-2026.</span>
 
 ### **2025**
 
