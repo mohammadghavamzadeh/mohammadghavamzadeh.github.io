@@ -36,6 +36,10 @@ redirect_from:
 
 ### **2026**
 
+- <span style="font-size:0.9em;">Three papers on <em>"Generative Scenario Rollouts for End-to-End Autonomous Driving"</em>, <em>"MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving"</em>, and <em>"Alleviating Hallucination with Training-Free Uncertainty-Guided Steering"</em> got accepted at NeurIPS-2026.</span>
+
+- <span style="font-size:0.9em;">Two papers on <em>"Nash Equilibrium Text: A Game-Theoretic Decoding Framework for Text Generation"</em> and <em>"Transformers as In-Context Samplers: From Closed-Form Diffusion to Estimation-Free Sampling"</em> got accepted at the Workshop on <em>"Dynamics at the Frontiers of Optimization, Sampling, and Games"</em> at NeurIPS-2026.</span>
+
 - <span style="font-size:0.9em;">Three papers on <em>"Diffusion Blend: Inference-Time Multi-Preference Alignment for Diffusion Models"</em>, <em>"Beyond Binary Preferences: A Principled Framework for Reward Modeling with Ordinal Feedback"</em>, and <em>"Displacement-Resistant Extensions of DPO with Nonconvex f-Divergences"</em> got accepted at ICLR-2026.</span>
 
 - <span style="font-size:0.9em;">A paper on <em>"DISPO: Enhancing Training Efficiency and Stability in Reinforcement Learning for Large Language Model Mathematical Reasoning"</em> got accepted at AISTATS-2026.</span>

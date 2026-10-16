@@ -30,8 +30,7 @@ author_profile: true
 
 ### &emsp; **Conference** 
 
-- <span style="font-size:0.9em;"> Min Cheng, Fatemeh Doudi, Dileep Kalathil, Mohammad Ghavamzadeh, & Panganamala Kumar. “Diffusion
-Blend: Inference-Time Multi-Preference Alignment for Diffusion Models”. <em>Proceedings of the Thirty-First International Conference on Learning Representations</em> (ICLR-2026), 2026. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr26-diff-blend.pdf)</span>
+- <span style="font-size:0.9em;"> Min Cheng, Fatemeh Doudi, Dileep Kalathil, Mohammad Ghavamzadeh, & Panganamala Kumar. “Diffusion Blend: Inference-Time Multi-Preference Alignment for Diffusion Models”. <em>Proceedings of the Thirty-First International Conference on Learning Representations</em> (ICLR-2026), 2026. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr26-diff-blend.pdf)</span>
 
 - <span style="font-size:0.9em;"> Amirhossein Afsharrad, Ruida Zhou, Luca Viano, Sanjay Lall, & Mohammad Ghavamzadeh. “Beyond Binary Preferences: A Principled Framework for Reward Modeling with Ordinal Feedback”. <em>Proceedings of the Thirty-First International Conference on Learning Representations</em> (ICLR-2026), 2026. &nbsp; [pdf](http://mohammadghavamzadeh.github.io/PUBLICATIONS/iclr26-likert.pdf)</span>
 
